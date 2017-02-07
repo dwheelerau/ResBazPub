@@ -1,0 +1,1478 @@
+
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!--[if IE]><![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta property="og:site_name" content="NZ National Party" />
+<link rel="shortcut icon" href="https://national.org.nz/sites/all/themes/party/favicon.ico" type="image/vnd.microsoft.icon" />
+<meta property="og:image" content="https://national.org.nz/sites/national.org.nz/files/styles/thumbnail/public/header-about_0_0.jpg?itok=K248P-ao" />
+<meta about="/portfolios/transport" typeof="skos:Concept" property="rdfs:label skos:prefLabel" content="Transport" />
+<meta property="og:url" content="https://national.org.nz/team" />
+<meta property="og:description" content="Team" />
+<meta property="og:title" content="Team" />
+<meta name="generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="canonical" href="https://national.org.nz/team" />
+<link rel="shortlink" href="https://national.org.nz/node/1641" />
+  <title>Team | NZ National Party</title>
+  <link rel="apple-touch-icon" href="/sites/all/themes/national/apple-touch-icon.png">
+  
+  
+  <link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__9cWqptSUNYq5YedfIwh33VxtugFVWjDdEsblT8GhLKI__quUjyhSfbEukHj8a0hYvzm9VTmPALmSZvA0xfM_Oxzo__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__jpux04k95AdCezcfOqlMAWpyLRN9ZCN2NXZsS0-f1ww__UEMD9fS_vumsbzy2p-SYhl3nTZrOSQVhoiXewOKd-Co__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__5TuwnHaXcHVMfMbBQPNu-l2kUDMvUVvHzEF7LUd0OCs__55sVPf1hGEJOw3kSMFfmaM1PTOPrnQxkzbq8xQGFFcI__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__Iz1hbAlsWB8EeGVL_kNSrSj-en0EqvqL1O2k11XLQko__7Kz9F6LbNCvcrtJa89YEkXFjRMYHQ4MrU3Peu5RUaVU__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__vfwGyQa3QlPcUtUDAuLrV6MgZ9PPArcjwgYe33Eqzi8__fNXV4ifwhML8QSae7Cepyc9NTJCsAv18p9nAyzmgTjw__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="screen" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__mbbxj1m6Dc8ROfrQTdqQXZ4jeGsJpLcagH1JuZ8oSuw__TqGD86TM5kK9t4QERDZnpiaWdyh_T-exXFugU-KX840__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__sJLCe74eKUW_XdEmP7Mxyg80xAdNW9lA3cOFdpzbObU__JSl0Sz9h99qjFlmKK0BrYXEDmXYsdzzVN9enAd6nGeM__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__IC689C_MvpwvEGK2NggBCFcTzv-bBNlRcjtuzbAZcVw__Zj1aH4qrtnD-U8u9c9_aFQBdwnbusS1rfI7u3CiRrM4__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__tCRU3_R84tX5VvAO9bRuKgPjaifu6f6QTop4HRU6U0o__ie4gIyc_iA6opBAhzVbm5o-M_TRO-k2PH3gPAUsmGJM__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__hwCqiZAMp15C_QJecyhpCA4kJ8Dna8ZkO3RLhgWb5eM__w6t4u4DVkKGMXFTUHvb0rQbmz3VP736EzCh_AGCuSkk__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://national.org.nz/sites/national.org.nz/files/advagg_css/css__4a4HHWYQRJVfVYy-oR98kkyLCGIxN6VunOBLpn7oFBU__3-e82FP5az3aQSG0UuiNzoqFPMuGcOzWrDf8JdvlYEE__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.css" media="print" />
+<style>.hero{background-color:#FFFFFF !important;background-image:url('https://national.org.nz/sites/national.org.nz/files/banner-blue-beehive.png') !important;background-repeat:no-repeat !important;background-attachment:scroll !important;background-position:center center !important;background-size:cover !important;-webkit-background-size:cover !important;-moz-background-size:cover !important;-o-background-size:cover !important;}
+</style>
+  <!--[if lt IE 9]>
+    <script src="/sites/all/themes/ignite/js/vendor/html5shiv.min.js"></script>
+    <script src="/sites/all/themes/ignite/js/vendor/respond.min.js"></script>
+  <![endif]-->
+  <script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__nBqmjfnmFfknzXjo37NH58CiS9lfbbhkXtUQYxl8_2s__NWoPag4uXKyT6_Yl3mBIlBu2NM9SS7TGFi_DDxnFOu0__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.2/js/bootstrap.min.js"></script>
+<script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__1d4AaN49-hdVeMG6wwGOmQ4p-tZXo89hbA8plWTCaq8__oAkUO5WtFU-IaLHcKUwpRSJx_HMAAp8XXnlfe4rZoEA__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+<script>document.createElement( "picture" );</script>
+<script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__KaZp60twaRFpB7IdN57N22C_sjMQDY1aEnvERtknlIg__RPUH1Pa_09kAZ8D2-aMQ-HwAGT4k3LEND1qRE2SEZHM__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","//www.google-analytics.com/analytics.js","ga");ga("create", "UA-87293-4", {"cookieDomain":"auto"});ga("set", "anonymizeIp", true);ga("send", "pageview");</script>
+<script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__lMCIO_gwoENlBigI2UOzOKkyG-EeUqOHrxnTec1I-HQ__C389Vc_zjTfBmrTqoRNGUK0zY_nSOyzn-bjDheR_WiY__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+<script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__DzY_TfLT34pnCou1dzOot0waDILeZL1G3v_k2EVtOP8__sXXU8mCbJ42Bki3XolIUurWfq-4mHbNADXm9YiwbLnc__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"party","theme_token":"8W6dnZjtO3b3AqvIvYikj_JKepojmBD2N_ixAsaTfRA","css":{"modules\/system\/system.base.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/picture\/picture_wysiwyg.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.base.css":1,"sites\/all\/modules\/contrib\/oembed\/oembed.theme.css":1,"sites\/all\/modules\/contrib\/panels\/css\/panels.css":1,"sites\/all\/themes\/party\/ds_layouts\/sparks_ds_2col\/sparks_ds_2col.css":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/css\/bootstrap.min.css":1,"sites\/all\/themes\/bootstrap\/css\/overrides.css":1,"sites\/all\/themes\/ignite\/css\/vendors\/jquery.mmenu.all.css":1,"sites\/all\/themes\/ignite\/css\/vendors\/bootstrap-select.css":1,"sites\/all\/themes\/ignite\/css\/vendors\/font-awesome.css":1,"sites\/all\/themes\/ignite\/css\/global.styles.css":1,"sites\/all\/themes\/ignite\/css\/global.hacks.css":1,"sites\/all\/themes\/party\/css\/facebox.css":1,"sites\/all\/themes\/party\/css\/party.styles.css":1,"sites\/all\/themes\/party\/css\/oembed.theme.css":1,"sites\/all\/themes\/ignite\/css\/global.print.css":1,"0":1},"js":{"sites\/all\/modules\/contrib\/picture\/picturefill2\/picturefill.min.js":1,"sites\/all\/modules\/contrib\/picture\/picture.min.js":1,"sites\/all\/themes\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"\/\/netdna.bootstrapcdn.com\/bootstrap\/3.0.2\/js\/bootstrap.min.js":1,"sites\/all\/modules\/contrib\/admin_menu\/admin_devel\/admin_devel.js":1,"sites\/all\/modules\/sparks\/imce_prettyfiles\/imce_prettyfiles.js":1,"sites\/all\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"sites\/all\/modules\/contrib\/field_group\/field_group.js":1,"sites\/all\/themes\/ignite\/js\/vendor\/modernizr-2.8.3.min.js":1,"sites\/all\/themes\/ignite\/js\/vendor\/respond.min.js":1,"sites\/all\/themes\/ignite\/js\/vendor\/jquery.mmenu.min.all.js":1,"sites\/all\/themes\/ignite\/js\/vendor\/bootstrap-select.js":1,"sites\/all\/themes\/ignite\/js\/ignite.behaviours.js":1,"sites\/all\/themes\/party\/js\/vendor\/hammer.min.js":1,"sites\/all\/themes\/party\/js\/vendor\/js.cookie.js":1,"sites\/all\/themes\/party\/js\/party.behaviours.js":1,"sites\/all\/themes\/party\/js\/party.navigation.js":1,"sites\/all\/themes\/party\/js\/party.banners.js":1,"sites\/all\/themes\/party\/js\/party.search.js":1,"sites\/all\/themes\/party\/js\/party.campaign-monitor.js":1}},"field_group":{"div":"teaser","link":"teaser"},"better_exposed_filters":{"views":{"nodequeue_1":{"displays":{"block":{"filters":[]}}}}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip"},"urlIsAjaxTrusted":{"\/team":true},"bootstrap":{"anchorsFix":"1","anchorsSmoothScrolling":"1","popoverEnabled":"1","popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":"1","tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-1641 node-type-page" >
+  <div id="skip-link">
+    <a class="sr-only sr-only-focusable" href="#main-content">Skip to main content</a>
+  </div>
+    <div class="wrapper">    <div class="container-fluid">
+      <div class="region pre-header">
+        <div class="region__inner container">
+          <div class="row">
+            <div class="col-md-12 hidden-xs hidden-sm">
+                          </div>
+          </div>
+        </div>
+      </div>
+
+      <header class="region header region--dark">
+        <div class="region__inner container">
+          <div class="row">
+                            <div class="region region-header">
+    <section id="block-delta-blocks-site-name" class="block block-delta-blocks branding col-md-2 clearfix">
+
+      
+  <h2 class="site-name"><a href="/" title="Return to the NZ National Party home page"><span>NZ National Party</span></a></h2>
+</section> <!-- /.block -->
+<section id="block-menu-block-3" class="block block-menu-block navigation navigation--global col-md-8 clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-3 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first expanded menu-mlid-172883"><a href="/about">About</a><ul class="menu nav"><li class="first leaf menu-mlid-172978"><a href="/plan/our-policies">Our Policies</a></li>
+<li class="leaf menu-mlid-172977"><a href="/about/nationals-history">National&#039;s History</a></li>
+<li class="leaf menu-mlid-172980"><a href="https://bluegreens.national.org.nz/">BlueGreens</a></li>
+<li class="last leaf menu-mlid-172981"><a href="http://www.mynational.org.nz/">mynational.org.nz</a></li>
+</ul></li>
+<li class="leaf active-trail active menu-mlid-172884"><a href="/team" class="active-trail active">Team</a></li>
+<li class="expanded menu-mlid-172885"><a href="/plan">Plan</a><ul class="menu nav"><li class="first last leaf menu-mlid-172906"><a href="/plan/our-policies">Our Policies</a></li>
+</ul></li>
+<li class="leaf menu-mlid-172857"><a href="/features">Features</a></li>
+<li class="leaf menu-mlid-998"><a href="/news">News</a></li>
+<li class="last leaf menu-mlid-172897"><a href="https://www.mynational.org.nz/" rel="external" class="menu__item--special" target="_blank">Get Involved</a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+<section id="block-block-25" class="block block-block social clearfix">
+
+      
+  <ul class="item-list"><li><a href="http://www.facebook.com/nznats" class="fa fa-facebook">http://www.facebook.com/nznats</a></li><li><a href="http://www.twitter.com/nznationalparty" class="fa fa-twitter">http://www.twitter.com/nznationalparty</a></li></ul>
+</section> <!-- /.block -->
+<section id="block-search-form" class="block block-search search hidden-print clearfix">
+
+      
+  <form class="form-search content-search" action="/team" method="post" id="search-block-form" accept-charset="UTF-8"><div><div>
+      <h2 class="element-invisible">Search form</h2>
+    <div class="input-group"><label for="edit-search-block-form--2" class="sr-only">Search this site:</label><input title="Enter the terms you wish to search for." placeholder="Search" class="form-control form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" /><span class="input-group-btn"><label for="search-block-submit" class="sr-only">Submit</label><button type="submit" class="btn btn-default" id="search-block-submit">Search</button></span></div><label for="edit-submit" class="sr-only">Hidden Submit</label><button class="element-invisible btn btn-primary form-submit" id="edit-submit" name="op" value="Search" type="submit">Search</button>
+<input type="hidden" name="form_build_id" value="form-3PIH3VbIRTjVN0nxCzdngwA96lLxWEvvE3yuR7gjYZU" />
+<input type="hidden" name="form_id" value="search_block_form" />
+</div>
+</div></form>
+</section> <!-- /.block -->
+<section id="block-block-1" class="block block-block hidden-md hidden-lg controls pull-right clearfix">
+
+      
+  <button class="btn btn-default btn-md pull-left js-nav">
+<span class="glyphicon glyphicon-align-justify"></span>
+<span class="glyphicon glyphicon-remove"></span>
+</button>
+</section> <!-- /.block -->
+  </div>
+                      </div>
+        </div>
+      </header>
+      
+      <div class="region post-header">
+        <div class="region__inner container">
+          <div class="row">
+                      </div>
+        </div>
+      </div>
+      
+            
+            <div class="region hero">
+        <div class="region__inner container">
+          <div class="row">
+            <div class="col-md-12 banner">  <div class="region region-hero">
+    <section id="block-cck-blocks-field-banner" class="block block-cck-blocks col-sm-6 banner__image pull-right hidden-xs clearfix">
+
+      
+  <div class="field field-name-field-banner field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><picture >
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://national.org.nz/sites/national.org.nz/files/styles/content_page_banner/public/header-about_0_0.jpg?itok=FNYqGC5Q&amp;timestamp=1484188427 1x" media="(min-width: 1200px)" />
+<source srcset="https://national.org.nz/sites/national.org.nz/files/styles/content_page_banner/public/header-about_0_0.jpg?itok=FNYqGC5Q&amp;timestamp=1484188427 1x" media="(min-width: 992px)" />
+<source srcset="https://national.org.nz/sites/national.org.nz/files/styles/page_banner_-_s/public/header-about_0_0.jpg?itok=46G8XyBH&amp;timestamp=1484188427 1x" media="(min-width: 768px)" />
+<source srcset="https://national.org.nz/sites/national.org.nz/files/styles/page_banner_-_xs/public/header-about_0_0.jpg?itok=uWeQojC3&amp;timestamp=1484188427 1x" />
+<!--[if IE 9]></video><![endif]-->
+<img  src="https://national.org.nz/sites/national.org.nz/files/styles/page_banner_-_xs/public/header-about_0_0.jpg?itok=uWeQojC3&amp;timestamp=1484188427" alt="" title="" />
+</picture></div></div></div>
+</section> <!-- /.block -->
+<section id="block-ignite-blocks-ignite-page-title" class="block block-ignite-blocks col-sm-6 banner__title clearfix">
+
+      
+  <h1 id="page-title" class="title">Team</h1>
+</section> <!-- /.block -->
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+            
+            
+            
+      <div class="region pre-content">
+        <div class="region__inner container">
+          <div class="row">
+            <div class="col-md-12">
+                 <div class="region region-pre-content">
+    <section id="block-ignite-blocks-ignite-breadcrumb" class="block block-ignite-blocks clearfix">
+
+      
+  <div id="breadcrumb" class="clearfix"><ul class="breadcrumb"><li class="depth-1 odd first"><a href="/">Home</a></li><li class="depth-2 even last"><a href="/team" class="active">Team</a></li></ul></div>
+</section> <!-- /.block -->
+  </div>
+                           </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <section class="region content ">
+        <div class="region__inner container">
+          <div class="row">
+            <article class="col-md-12" id="content">
+              <div class="row">
+                <div class="col-md-12">
+                                                                          <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+      
+  <div  about="/team" typeof="foaf:Document" class="ds-1col node node-page view-mode-full  clearfix">
+
+  
+  </div>
+
+
+</section> <!-- /.block -->
+<section id="block-views-nodequeue-1-block" class="block block-views clearfix">
+
+      
+  <div class="view view-nodequeue-1 view-id-nodequeue_1 view-display-id-block team view-dom-id-b37892bbb12b43b2471b414e81044c8b">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <div  about="/node/1646" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-sticky node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://billenglish.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/rt-hon-bill-english.jpg?itok=vtkXZPG2" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/rt-hon-bill-english-banner.jpg?itok=07wRWS9p" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Rt Hon Bill English</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>1</div><div class="field field-name-field-electorate">Prime Minister</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Prime Minister</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  National Security and Intelligence</div>
+
+</div></div><a href="https://billenglish.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><p>Name </p>
+
+	<p>Email </p>
+
+	<p>Subscribe</p></div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/pmbillenglish" class="fa fa-facebook">https://www.facebook.com/pmbillenglish</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/pmbillenglish" class="twitter">https://twitter.com/pmbillenglish</a></span><span class="team__ico team__instagram"><a href="https://www.instagram.com/pmbillenglish" target="_blank">https://www.instagram.com/pmbillenglish</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <div  about="/node/1649" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://paulabennett.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-paula-bennett-2016_0.jpg?itok=fUB2qNYd" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/-text-1_3.png?itok=M6LNz1_O" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Paula Bennett</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>2</div><div class="field field-name-field-electorate">Deputy Prime Minister and MP for Upper Harbour</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  State Services</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Women</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Tourism</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Police</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Climate Change Issues</div>
+
+</div></div><a href="https://paulabennett.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/paulabennettUH" class="fa fa-facebook">https://www.facebook.com/paulabennettUH</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/paulabennettmp" class="twitter">https://twitter.com/paulabennettmp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <div  about="/node/1648" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://stevenjoyce.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/Hon-Steven-Joyce.jpg?itok=2s6McrXn" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/-text-1_2.png?itok=s9JRLULe" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Steven Joyce</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>3</div><div class="field field-name-field-electorate">List MP</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Finance</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Infrastructure</div>
+
+</div></div><a href="https://stevenjoyce.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/stevenljoyce" class="fa fa-facebook">https://www.facebook.com/stevenljoyce</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/stevenljoyce" class="twitter">https://twitter.com/stevenljoyce</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <div  about="/node/1647" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://gerrybrownlee.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/Hon-Gerry-Brownlee.jpg?itok=1dJOKZ56" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/-text-1_1.png?itok=xWrgZd4M" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Gerry Brownlee</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>4</div><div class="field field-name-field-electorate">Leader of the House and MP for Ilam</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Greater Christchurch Regeneration</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Defence</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Civil Defence</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Earthquake Commission</div>
+
+</div></div><a href="https://gerrybrownlee.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/gerrybrownleemp" class="fa fa-facebook">https://www.facebook.com/gerrybrownleemp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+    <div  about="/node/1752" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://simonbridges.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-simon-bridges.jpg?itok=CN8PR5IP" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Simon Bridges</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>5</div><div class="field field-name-field-electorate">Deputy Leader of the House and MP for Tauranga</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Economic Development</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Transport</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Communications</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Finance</div>
+
+</div></div><a href="https://simonbridges.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junkd/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junkd-junkd" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="http://www.facebook.com/Simon.Bridges.MP" class="fa fa-facebook">http://www.facebook.com/Simon.Bridges.MP</a></span><span class="team__ico team__twitter"><a href="http://twitter.com/simonjbridges" class="twitter">http://twitter.com/simonjbridges</a></span><span class="team__ico team__instagram"><a href="https://www.instagram.com/sbridgesnz/" target="_blank">https://www.instagram.com/sbridgesnz/</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+    <div  about="/node/1651" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://amyadams.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/Hon-Amy-Adams.jpg?itok=addLOXAi" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/-text-1_5.png?itok=O2f8YdG0" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Amy Adams</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>6</div><div class="field field-name-field-electorate">MP for Selwyn</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Justice</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Courts</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Social Housing</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Social Investment</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  HNZC</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Finance</div>
+
+</div></div><a href="https://amyadams.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junv/" method="post" id="subForm">
+    <p>
+        <label for="fieldName">Name</label>
+        <input id="fieldName" name="cm-name" type="text" placeholder="Your name" />
+    </p>
+    <p>
+        <label for="fieldEmail">Email</label>
+        <input id="fieldEmail" name="cm-junv-junv" type="email" placeholder="Enter your email" required />
+    </p>
+    <p>
+        <button type="submit" class="btn">Subscribe</button>
+    </p>
+</form></div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/MPAmyAdams" class="fa fa-facebook">https://www.facebook.com/MPAmyAdams</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/amyadamsMP" class="twitter">https://twitter.com/amyadamsMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+    <div  about="/node/1650" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jonathancoleman.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/Hon-Dr-Jonathan-Coleman.jpg?itok=uepShSBr" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/-text-1_4.png?itok=pQ5pd4mA" width="800" height="600" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Dr Jonathan Coleman</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>7</div><div class="field field-name-field-electorate">MP for Northcote</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Health</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Sport and Recreation</div>
+
+</div></div><a href="https://jonathancoleman.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/jonathan.coleman.56" class="fa fa-facebook">https://www.facebook.com/jonathan.coleman.56</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/jcolemanmp" class="twitter">https://twitter.com/jcolemanmp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+    <div  about="/node/1719" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://www.chrisfinlayson.co.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-christopher-finlayson.jpg?itok=j9ILtd-X" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Christopher Finlayson</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>8</div><div class="field field-name-field-electorate">List MP</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Attorney-General</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  GCSB</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  NZ Security Intelligence Service</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Treaty of Waitangi Negotiations</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Maori Development</div>
+
+</div></div><a href="http://www.chrisfinlayson.co.nz/#section-contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/CFFinlayson" class="fa fa-facebook">https://www.facebook.com/CFFinlayson</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/chrisfinlayson" class="twitter">https://twitter.com/chrisfinlayson</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+    <div  about="/node/1760" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://michaelwoodhouse.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-michael-woodhouse.jpg?itok=VAYnGE3x" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Michael Woodhouse</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>9</div><div class="field field-name-field-electorate">List MP based in Dunedin</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Immigration</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Workplace Relations and Safety</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  ACC</div>
+
+</div></div><a href="https://michaelwoodhouse.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/ijkutd/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-ijkutd-ijkutd" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/michael.woodhousemp" class="fa fa-facebook">https://www.facebook.com/michael.woodhousemp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/WoodhouseMP" class="twitter">https://twitter.com/WoodhouseMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-10 views-row-even">
+    <div  about="/node/1754" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://annetolley.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-anne-tolley.jpg?itok=CWN79cHi" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Anne Tolley</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>10</div><div class="field field-name-field-electorate">MP for East Coast</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Children</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Social Development</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Local Government</div>
+
+</div></div><a href="https://annetolley.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/juns/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-juns-juns" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/honannetolley" class="fa fa-facebook">https://www.facebook.com/honannetolley</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/AnneTolleyMP" class="twitter">https://twitter.com/AnneTolleyMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-11 views-row-odd">
+    <div  about="/node/1753" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://hekiaparata.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-hekia-parata.jpg?itok=XgbV29KK" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Hekia Parata</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>11</div><div class="field field-name-field-electorate">List MP</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Education</div>
+
+</div></div><a href="https://hekiaparata.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/hekia.parata" class="fa fa-facebook">https://www.facebook.com/hekia.parata</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/hekiaparata" class="twitter">https://twitter.com/hekiaparata</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-12 views-row-even">
+    <div  about="/node/1758" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://nathanguy.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-nathan-guy.jpg?itok=KlVyzU9d" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Nathan Guy</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>12</div><div class="field field-name-field-electorate">MP for Otaki</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Primary Industries</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Racing</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Economic Development</div>
+
+</div></div><a href="https://nathanguy.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/nathanguy4otaki" class="fa fa-facebook">https://www.facebook.com/nathanguy4otaki</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/NathanGuyOtaki" class="twitter">https://twitter.com/NathanGuyOtaki</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-13 views-row-odd">
+    <div  about="/node/1756" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://murraymccully.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-murray-mccully.jpg?itok=5yrtQqko" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Murray McCully</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>13</div><div class="field field-name-field-electorate">MP for East Coast Bays</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Foreign Affairs</div>
+
+</div></div><a href="https://murraymccully.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-14 views-row-even">
+    <div  about="/node/1759" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://nikkikaye.co.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-nikki-kaye.jpg?itok=MBLbVZ7F" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Nikki Kaye</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>14</div><div class="field field-name-field-electorate">MP for Auckland Central</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Youth</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Education</div>
+
+</div></div><a href="http://nikkikaye.co.nz/contact/" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junkj/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junkj-junkj" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/NikkiKayeMP/" class="fa fa-facebook">https://www.facebook.com/NikkiKayeMP/</a></span><span class="team__ico team__twitter"><a href="https://www.twitter.com/nikkikaye" class="twitter">https://www.twitter.com/nikkikaye</a></span><span class="team__ico team__linkedin"><a href="https://www.instagram.com/nikkikayemp/" target="_blank">https://www.instagram.com/nikkikayemp/</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-15 views-row-odd">
+    <div  about="/node/1755" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://www.nick4nelson.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-dr-nick-smith.jpg?itok=7EscY_fw" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Dr Nick Smith</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>15</div><div class="field field-name-field-electorate">MP for Nelson</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Environment</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Building and Construction</div>
+
+</div></div><a href="http://www.nick4nelson.nz/contact-nick-smith-mp-nelson/" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/nicksmithmp" class="fa fa-facebook">https://www.facebook.com/nicksmithmp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-16 views-row-even">
+    <div  about="/node/1757" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://judithcollins.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-judith-collins-2.jpg?itok=u8IY84xm" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Judith Collins</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>16</div><div class="field field-name-field-electorate">MP for Papakura</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Revenue</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Energy and Resources</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Ethnic Communities</div>
+
+</div></div><a href="https://judithcollins.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junjy/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junjy-junjy" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/judithcollinsmp" class="fa fa-facebook">https://www.facebook.com/judithcollinsmp</a></span><span class="team__ico team__twitter"><a href="http://twitter.com/judithcollinsmp" class="twitter">http://twitter.com/judithcollinsmp</a></span><span class="team__ico team__instagram"><a href="https://www.instagram.com/judithcollinsmp/" target="_blank">https://www.instagram.com/judithcollinsmp/</a></span><span class="team__ico team__linkedin"><a href="https://nz.linkedin.com/pub/hon-judith-collins/82/3b/1b5" target="_blank">https://nz.linkedin.com/pub/hon-judith-collins/82/3b/1b5</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-17 views-row-odd">
+    <div  about="/node/1765" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://toddmcclay.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-todd-mcclay_0.jpg?itok=VprLvF_O" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Todd McClay</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>17</div><div class="field field-name-field-electorate">MP for Rotorua</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  State Owned Enterprises</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Trade</div>
+
+</div></div><a href="https://toddmcclay.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/iihuir/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-iihuir-iihuir" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/ToddMcClayMPforRotorua" class="fa fa-facebook">https://www.facebook.com/ToddMcClayMPforRotorua</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-18 views-row-even">
+    <div  about="/node/1766" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://www.maggiebarry.co.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-maggie-barry.jpg?itok=g7iRrPSE" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Maggie Barry</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>18</div><div class="field field-name-field-electorate">MP for North Shore</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Arts, Culture and Heritage</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Conservation</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Seniors</div>
+
+</div></div><a href="http://www.maggiebarry.co.nz/contact/" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/dkctr/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-dkctr-dkctr" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/maggiebarrynz" class="fa fa-facebook">https://www.facebook.com/maggiebarrynz</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/maggiebarrynz" class="twitter">https://twitter.com/maggiebarrynz</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-19 views-row-odd">
+    <div  about="/node/1771" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://paulgoldsmith.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-paul-goldsmith.jpg?itok=FJgAi6ka" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Paul Goldsmith</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>19</div><div class="field field-name-field-electorate">List MP based in Epsom</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Tertiary Education, Skills and Employment</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Science and Innovation</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Regulatory Reform</div>
+
+</div></div><a href="https://paulgoldsmith.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/jkyhdu/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-jkyhdu-jkyhdu" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/paulgoldsmithmp" class="fa fa-facebook">https://www.facebook.com/paulgoldsmithmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/PaulGoldsmithMP" class="twitter">https://twitter.com/PaulGoldsmithMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-20 views-row-even">
+    <div  about="/node/1770" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://louiseupston.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-louise-upston.jpg?itok=6tjJ-vK8" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Louise Upston</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>20</div><div class="field field-name-field-electorate">MP for Taupo</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Corrections</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Education</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Primary Industries</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Tertiary Education, Skills and Employment</div>
+
+</div></div><a href="https://louiseupston.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/juntt/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-juntt-juntt" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/louiseupstonmp" class="fa fa-facebook">https://www.facebook.com/louiseupstonmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/LouiseUpston" class="twitter">https://twitter.com/LouiseUpston</a></span><span class="team__ico team__linkedin"><a href="https://nz.linkedin.com/in/louise-upston-1309a730" target="_blank">https://nz.linkedin.com/in/louise-upston-1309a730</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-21 views-row-odd">
+    <div  about="/node/1781" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://alfredngaro.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/alfred-ngaro.jpg?itok=TryVf_Jc" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Alfred Ngaro</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>21</div><div class="field field-name-field-electorate">List MP based in Te Atatu</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Pacific Peoples</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Community and Voluntary Sector</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Children</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Social Housing</div>
+
+</div></div><a href="https://alfredngaro.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/trykhh/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-trykhh-trykhh" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/AlfredNgaroMP" class="fa fa-facebook">https://www.facebook.com/AlfredNgaroMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/AlfredNgaroMP" class="twitter">https://twitter.com/AlfredNgaroMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-22 views-row-even">
+    <div  about="/node/1769" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://nickywagner.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-nicky-wagner_0.jpg?itok=wYUhFzMT" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Nicky Wagner</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>22</div><div class="field field-name-field-electorate">MP for Christchurch Central</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Customs</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Disability Issues</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Conservation</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Greater Christchurch Regeneration</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Health</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Tourism</div>
+
+</div></div><a href="https://nickywagner.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/ditkul/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-ditkul-ditkul" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/nickywagnermp" class="fa fa-facebook">https://www.facebook.com/nickywagnermp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/nickywagner" class="twitter">https://twitter.com/nickywagner</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-23 views-row-odd">
+    <div  about="/node/1789" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://markmitchell.co.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/mark-mitchell.jpg?itok=wcgxbtto" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Mark Mitchell</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>23</div><div class="field field-name-field-electorate">MP for Rodney</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Land Information</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Statistics</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Justice</div>
+
+</div></div><a href="http://markmitchell.co.nz/contact/" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/juntd/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-juntd-juntd" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/markmitchellmp" class="fa fa-facebook">https://www.facebook.com/markmitchellmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/MarkMitchellMP" class="twitter">https://twitter.com/MarkMitchellMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-24 views-row-even">
+    <div  about="/node/1783" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jacquidean.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/jacqui-dean.jpg?itok=LDO7GEyZ" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Jacqui Dean</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>24</div><div class="field field-name-field-electorate">MP for Waitaki</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Commerce and Consumer Affairs</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Small Business</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  ACC</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Local Government</div>
+
+</div></div><a href="https://jacquidean.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/tdjttj/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-tdjttj-tdjttj" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/JacquiDeanMP" class="fa fa-facebook">https://www.facebook.com/JacquiDeanMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/JacquiDeanMP" class="twitter">https://twitter.com/JacquiDeanMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-25 views-row-odd">
+    <div  about="/node/1784" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://davidbennett.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/david-bennett.jpg?itok=S3pls8K_" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon David Bennett</h3></div><div class="team__rank"><div class="field field-name-field-rank"><div class="label-inline">Rank</div>25</div><div class="field field-name-field-electorate">MP for Hamilton East</div></div><div class="portfolios"><div class="label-above portfolios__label">Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Veterans’ Affairs</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Food Safety</div>
+
+</div></div><div class="portfolios"><div class="label-above portfolios__label">Associate Minister:&nbsp;</div><div class="portfolios__list"><div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Immigration</div>
+
+<div  class="ds-1col taxonomy-term vocabulary-portfolios view-mode-tag  clearfix">
+
+  
+  Transport</div>
+
+</div></div><a href="https://davidbennett.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="http://www.facebook.com/david.bennettmp" class="fa fa-facebook">http://www.facebook.com/david.bennettmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/davidbennettmp" class="twitter">https://twitter.com/davidbennettmp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-26 views-row-even">
+    <div  about="/node/1772" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://www.davidcarter.co.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/rt-hon-david-carter.jpg?itok=CcKlxT9J" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Rt Hon David Carter</h3></div><div class="team__rank"><div class="field field-name-field-electorate">Speaker of the House and List MP</div></div><a href="mailto:david.carter@parliament.govt.nz" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-27 views-row-odd">
+    <div  about="/node/1773" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://chesterborrows.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-chester-borrows_0.jpg?itok=Eyt-9tMt" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Hon Chester Borrows</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Whanganui</div></div><a href="https://chesterborrows.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/trlrtr/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-trlrtr-trlrtr" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/chesterborrows" class="fa fa-facebook">https://www.facebook.com/chesterborrows</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/ChesterBorrows" class="twitter">https://twitter.com/ChesterBorrows</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-28 views-row-even">
+    <div  about="/node/1774" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://lindsaytisch.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/lindsay-tisch.jpg?itok=kDDhgzq8" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Lindsay Tisch</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Waikato</div></div><a href="https://lindsaytisch.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/Lindsay-Tisch-MP-804666182884878/" class="fa fa-facebook">https://www.facebook.com/Lindsay-Tisch-MP-804666182884878/</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-29 views-row-odd">
+    <div  about="/node/1775" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://timmacindoe.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/tim-macindoe.jpg?itok=2Jjf8bF_" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Tim Macindoe</h3></div><div class="team__rank"><div class="field field-name-field-electorate">Senior Whip and MP for Hamilton West</div></div><a href="https://timmacindoe.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/TimMacindoeMP" class="fa fa-facebook">https://www.facebook.com/TimMacindoeMP</a></span><span class="team__ico team__twitter"><a href="http://twitter.com/timmacindoe" class="twitter">http://twitter.com/timmacindoe</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-30 views-row-even">
+    <div  about="/node/1776" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jami-leeross.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/jami-lee-ross.jpg?itok=Ku2vTDT1" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Jami-Lee Ross</h3></div><div class="team__rank"><div class="field field-name-field-electorate">Junior Whip and MP for Botany</div></div><a href="https://jami-leeross.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/jami.lee.ross" class="fa fa-facebook">https://www.facebook.com/jami.lee.ross</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/jamileeross" class="twitter">https://twitter.com/jamileeross</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-31 views-row-odd">
+    <div  about="/node/1777" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://johayes.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/jo-hayes.jpg?itok=LUVBy-qz" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Jo Hayes</h3></div><div class="team__rank"><div class="field field-name-field-electorate">Third Whip and List MP based in Christchurch East</div></div><a href="https://johayes.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/JoanneHayesMP" class="fa fa-facebook">https://www.facebook.com/JoanneHayesMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/jo_hayes1" class="twitter">https://twitter.com/jo_hayes1</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-32 views-row-even">
+    <div  about="/node/100" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/Rt-Hon-John-Key-b.jpg?itok=nucKyzde" width="360" height="360" alt="" /></div><div class="field field-name-field-banner-wallpaper"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/banner_wallpaper_home/public/banner/Rt-Hon-John-Key.jpg?itok=VoIXXrIG" width="800" height="600" alt="" /></div></div><div class="group-right"><div class="field field-name-title"><h3>Rt Hon John Key</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Helensville</div></div><a href="" class="team__btn team__contact">Contact me</a><a href="mailto:john.key@national.org.nz" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/pmjohnkey" class="fa fa-facebook">https://www.facebook.com/pmjohnkey</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/RtHon_JohnKey" class="twitter">https://twitter.com/RtHon_JohnKey</a></span><span class="team__ico team__instagram"><a href="https://www.instagram.com/johnkeypm/" target="_blank">https://www.instagram.com/johnkeypm/</a></span><span class="team__ico team__youtube"><a href="https://www.youtube.com/playlist?list=PL2B847CA387E265AF" class="youtube">https://www.youtube.com/playlist?list=PL2B847CA387E265AF</a></span><span class="team__ico team__linkedin"><a href="http://nz.linkedin.com/in/johnkeypm" target="_blank">http://nz.linkedin.com/in/johnkeypm</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-33 views-row-odd">
+    <div  about="/node/1764" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://pesetasamlotu-iiga.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-peseta-sam-lotu-iiga-1.jpg?itok=SH-fyq0_" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Peseta Sam Lotu-Iiga</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Maungakiekie</div></div><a href="https://pesetasamlotu-iiga.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/triuiu/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-triuiu-triuiu" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/pesetasam.lotuiiga" class="fa fa-facebook">https://www.facebook.com/pesetasam.lotuiiga</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/MaungakiekieSAM" class="twitter">https://twitter.com/MaungakiekieSAM</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-34 views-row-even">
+    <div  about="/node/1767" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://craigfoss.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-craig-foss.jpg?itok=1PuLynn5" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Craig Foss</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Tukituki</div></div><a href="https://craigfoss.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junw/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junw-junw" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/craig.foss" class="fa fa-facebook">https://www.facebook.com/craig.foss</a></span><span class="team__ico team__twitter"><a href="http://twitter.com/CraigFossMP" class="twitter">http://twitter.com/CraigFossMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-35 views-row-odd">
+    <div  about="/node/1768" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jogoodhew.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/hon-jo-goodhew.jpg?itok=_Tpu19gY" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Jo Goodhew</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Rangitata</div></div><a href="https://jogoodhew.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junyu/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junyu-junyu" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/pages/Jo-Goodhew/317621700194" class="fa fa-facebook">https://www.facebook.com/pages/Jo-Goodhew/317621700194</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/JoGoodhewMP" class="twitter">https://twitter.com/JoGoodhewMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-36 views-row-even">
+    <div  about="/node/1778" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://melissalee.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/melissa-lee-2.jpg?itok=eJFH8sMG" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Melissa Lee</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Mt Albert</div></div><a href="https://melissalee.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junui/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junui-junui" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="http://facebook.com/mpmelissalee" class="fa fa-facebook">http://facebook.com/mpmelissalee</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/melissaleemp" class="twitter">https://twitter.com/melissaleemp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-37 views-row-odd">
+    <div  about="/node/1779" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://kanwaljitsinghbakshi.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/kanwaljit-singh-bakshi.jpg?itok=2gESdQoE" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Kanwaljit Singh Bakshi</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Manukau East</div></div><a href="https://kanwaljitsinghbakshi.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junjk/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junjk-junjk" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/Bakshiks" class="fa fa-facebook">https://www.facebook.com/Bakshiks</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/Bakshiks" class="twitter">https://twitter.com/Bakshiks</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-38 views-row-even">
+    <div  about="/node/1780" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jianyang.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/dr-jian-yang.jpg?itok=1LDKL7r2" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Dr Jian Yang</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Auckland</div></div><a href="https://jianyang.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/JianYangMP" class="fa fa-facebook">https://www.facebook.com/JianYangMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-39 views-row-odd">
+    <div  about="/node/1782" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/maurice-williamson.jpg?itok=7zESS6be" width="360" height="360" alt="" /></div></div><div class="group-right"><div class="field field-name-title"><h3>Hon Maurice Williamson</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Pakuranga</div></div><a href="" class="team__btn team__contact">Contact me</a><a href="mailto:maurice.williamson@national.org.nz" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__twitter"><a href="https://twitter.com/williamson_nz" class="twitter">https://twitter.com/williamson_nz</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-40 views-row-even">
+    <div  about="/node/1785" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jonathanyoung.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/jonathan-young.jpg?itok=Jn622sXN" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Jonathan Young</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for New Plymouth</div></div><a href="https://jonathanyoung.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="http://www.facebook.com/#!/jonathan.youngmp" class="fa fa-facebook">http://www.facebook.com/#!/jonathan.youngmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/JonathanYoungMP" class="twitter">https://twitter.com/JonathanYoungMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-41 views-row-odd">
+    <div  about="/node/1786" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://bretthudson.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/brett-hudson.jpg?itok=GwCyJU_O" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Brett Hudson</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Ohariu</div></div><a href="https://bretthudson.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/bretthudson.national" class="fa fa-facebook">https://www.facebook.com/bretthudson.national</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/bhudson_nz" class="twitter">https://twitter.com/bhudson_nz</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-42 views-row-even">
+    <div  about="/node/1788" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://ianmckelvie.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/ian-mckelvie.jpg?itok=V-B4kIJb" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Ian McKelvie</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Rangitikei</div></div><a href="https://ianmckelvie.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/ihldkd/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-ihldkd-ihldkd" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/IanMcKelvieMP/" class="fa fa-facebook">https://www.facebook.com/IanMcKelvieMP/</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/ianmckelviemp" class="twitter">https://twitter.com/ianmckelviemp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-43 views-row-odd">
+    <div  about="/node/1790" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://simonoconnor.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/simon-oconnor.jpg?itok=yKqin8yE" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Simon O&#039;Connor</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Tamaki</div></div><a href="https://simonoconnor.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/nhjvj/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-nhjvj-nhjvj" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form></div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/SimonOConnorMP" class="fa fa-facebook">https://www.facebook.com/SimonOConnorMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/SimonOConnorMP" class="twitter">https://twitter.com/SimonOConnorMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-44 views-row-even">
+    <div  about="/node/1791" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://scottsimpson.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/scott-simpson.jpg?itok=giPOJ26t" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Scott Simpson</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Coromandel</div></div><a href="https://scottsimpson.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/junki/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-junki-junki" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/ScottSimpsonMP" class="fa fa-facebook">https://www.facebook.com/ScottSimpsonMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/ScottSimpsonMP" class="twitter">https://twitter.com/ScottSimpsonMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-45 views-row-odd">
+    <div  about="/node/1792" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://paulfoster-bell.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/paul-foster-bell.jpg?itok=W8g7lsGU" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Paul Foster-Bell</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Wellington Central</div></div><a href="https://paulfoster-bell.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/PaulFosterBellMP" class="fa fa-facebook">https://www.facebook.com/PaulFosterBellMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/PARFosterBell" class="twitter">https://twitter.com/PARFosterBell</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-46 views-row-even">
+    <div  about="/node/1793" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="http://www.parmjeetparmar.co.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/dr-parmjeet-parmar.jpg?itok=EscdvDqd" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Dr Parmjeet Parmar</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Mt Roskill</div></div><a href="mailto:parmjeet.parmar@national.org.nz" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/DrParmjeetParmarMP" class="fa fa-facebook">https://www.facebook.com/DrParmjeetParmarMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-47 views-row-odd">
+    <div  about="/node/1794" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://chrisbishop.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/chris-bishop.jpg?itok=-MpN0gkK" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Chris Bishop</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Hutt South</div></div><a href="https://chrisbishop.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/chrisbishopmp" class="fa fa-facebook">https://www.facebook.com/chrisbishopmp</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/cjsbishop" class="twitter">https://twitter.com/cjsbishop</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-48 views-row-even">
+    <div  about="/node/1795" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://nukkorako.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/nuk-korako.jpg?itok=prTZ25c1" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Tutehounuku (Nuk) Korako</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in the Port Hills</div></div><a href="https://nukkorako.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/hhiiyu/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-hhiiyu-hhiiyu" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/nukkorako.PortHills" class="fa fa-facebook">https://www.facebook.com/nukkorako.PortHills</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-49 views-row-odd">
+    <div  about="/node/1796" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://jononaylor.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/jono-naylor.jpg?itok=BO53JhP1" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Jono Naylor</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in Palmerston North</div></div><a href="https://jononaylor.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/jononaylor1" class="fa fa-facebook">https://www.facebook.com/jononaylor1</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/jono_naylor" class="twitter">https://twitter.com/jono_naylor</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-50 views-row-even">
+    <div  about="/node/1797" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://toddbarclay.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/todd-barclay.jpg?itok=rTNmYzx5" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Todd Barclay</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Clutha-Southland</div></div><a href="https://toddbarclay.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/uudhii/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-uudhii-uudhii" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/CStoddbarclay" class="fa fa-facebook">https://www.facebook.com/CStoddbarclay</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/ToddBarclayMP" class="twitter">https://twitter.com/ToddBarclayMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-51 views-row-odd">
+    <div  about="/node/1798" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://andrewbayly.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/andrew-bayly.jpg?itok=VtqrykbB" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Andrew Bayly</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Hunua</div></div><a href="https://andrewbayly.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/AndrewBaylyMP" class="fa fa-facebook">https://www.facebook.com/AndrewBaylyMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-52 views-row-even">
+    <div  about="/node/1799" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://mattdoocey.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/matt-doocey.jpg?itok=ttKa7d68" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Matt Doocey</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Waimakariri</div></div><a href="https://mattdoocey.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/hkurid/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-hkurid-hkurid" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/MattDoocey.Christchurch" class="fa fa-facebook">https://www.facebook.com/MattDoocey.Christchurch</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-53 views-row-odd">
+    <div  about="/node/1800" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://sarahdowie.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/sarah-dowie.jpg?itok=SdfqF1-r" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Sarah Dowie</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Invercargill</div></div><a href="https://sarahdowie.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/thlkti/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-thlkti-thlkti" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/SarahDowieInvercargill" class="fa fa-facebook">https://www.facebook.com/SarahDowieInvercargill</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/NZsarahdowie" class="twitter">https://twitter.com/NZsarahdowie</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-54 views-row-even">
+    <div  about="/node/1801" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://barbarakuriger.national.org.nz" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/barbara-kuriger.jpg?itok=etRRU2Dd" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Barbara Kuriger</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Taranaki - King Country</div></div><a href="https://barbarakuriger.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/tumil/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-tumil-tumil" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/BarbaraKurigerMP" class="fa fa-facebook">https://www.facebook.com/BarbaraKurigerMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/BarbaraKuriger" class="twitter">https://twitter.com/BarbaraKuriger</a></span><span class="team__ico team__instagram"><a href="https://www.instagram.com/BarbaraKurigerMP/" target="_blank">https://www.instagram.com/BarbaraKurigerMP/</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-55 views-row-odd">
+    <div  about="/node/1802" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://toddmuller.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/todd-muller.jpg?itok=lrOcjl6P" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Todd Muller</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Bay of Plenty</div></div><a href="https://toddmuller.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/idium/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-idium-idium" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/ToddMullerMP" class="fa fa-facebook">https://www.facebook.com/ToddMullerMP</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/toddmullerBoP" class="twitter">https://twitter.com/toddmullerBoP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-56 views-row-even">
+    <div  about="/node/1803" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://shanereti.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/dr-shane-reti.jpg?itok=swkStdRK" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Dr Shane Reti</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Whangarei</div></div><a href="https://shanereti.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/drshanereti" class="fa fa-facebook">https://www.facebook.com/drshanereti</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/DrShaneRetiMP" class="twitter">https://twitter.com/DrShaneRetiMP</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-57 views-row-odd">
+    <div  about="/node/1804" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://alastairscott.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/alastair-scott.jpg?itok=P4lzvlWa" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Alastair Scott</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Wairarapa</div></div><a href="https://alastairscott.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/trlyjy/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-trlyjy-trlyjy" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/alastairscottforwairarapa" class="fa fa-facebook">https://www.facebook.com/alastairscottforwairarapa</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/ascottwairarapa" class="twitter">https://twitter.com/ascottwairarapa</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-58 views-row-even">
+    <div  about="/node/1805" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://stuartsmith.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/stuart-smith.jpg?itok=fm2THNgF" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Stuart Smith</h3></div><div class="team__rank"><div class="field field-name-field-electorate">MP for Kaikoura</div></div><a href="https://stuartsmith.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><div class="field field-name-field-newsletter-html team__cmform"><form action="https://nationalleadersoffice.createsend.com/t/i/s/thjktk/" id="subForm" method="post">
+	<p><label for="fieldName">Name</label> <input id="fieldName" name="cm-name" placeholder="Enter your name" type="text" /></p>
+
+	<p><label for="fieldEmail">Email</label> <input id="fieldEmail" name="cm-thjktk-thjktk" placeholder="Enter your email" required="" type="email" /></p>
+
+	<p><button class="btn" type="submit">Subscribe</button></p>
+</form>
+</div><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/stuartsmith.national" class="fa fa-facebook">https://www.facebook.com/stuartsmith.national</a></span><span class="team__ico team__twitter"><a href="https://www.twitter.com/stuartsmithmp" class="twitter">https://www.twitter.com/stuartsmithmp</a></span></div></div>
+
+</div>
+
+  </div>
+  <div class="views-row views-row-59 views-row-odd views-row-last">
+    <div  about="/node/1806" typeof="sioc:Item foaf:Document" class="sparks-ds-2col node node-member node-teaser view-mode-teaser teaser col-sm-6 col-md-3 clearfix">
+
+  
+  <div class="group-left"><a href="https://maureenpugh.national.org.nz/" class="team__website" target="_blank"><div class="field field-name-field-banner-portrait"><img typeof="foaf:Image" src="https://national.org.nz/sites/national.org.nz/files/styles/square_portrait/public/banner/maureen-pugh.jpg?itok=xvrNi3D1" width="360" height="360" alt="" /></div><div class="field field-name-field-website-url field-type-link-field field-label-hidden"><div class="field-items"><div class="field-item even">Visit my website</div></div></div></a></div><div class="group-right"><div class="field field-name-title"><h3>Maureen Pugh</h3></div><div class="team__rank"><div class="field field-name-field-electorate">List MP based in West Coast‐Tasman</div></div><a href="https://maureenpugh.national.org.nz/contact" class="team__btn team__contact">Contact me</a><a href="mailto:" class="team__btn team__contact">Contact me</a><button class="team__btn team__btn--cmform js-campaign-monitor">Sign up to my newsletter</button><div class="team__follow"><span class="team__ico team__facebook"><a href="https://www.facebook.com/wct.maureenpugh/" class="fa fa-facebook">https://www.facebook.com/wct.maureenpugh/</a></span><span class="team__ico team__twitter"><a href="https://twitter.com/MaureenPughMP" class="twitter">https://twitter.com/MaureenPughMP</a></span></div></div>
+
+</div>
+
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>
+</section> <!-- /.block -->
+  </div>
+                </div>
+              </div>
+           </article>
+                     </div>
+        </div>
+      </section>
+
+            
+            
+      
+      <footer class="region footer region--dark">
+        <div class="region__inner container">
+                  <div class="col-md-6 footer__first">
+            <div class="row">
+                <div class="region region-footer-first">
+    <section id="block-menu-menu-footer-menu" class="block block-menu col-xs-12 col-sm-6 col-md-4 hidden-print navigation navigation--footer clearfix">
+
+      
+  <ul class="menu nav"><li class="first leaf"><a href="/">Home</a></li>
+<li class="leaf active-trail active"><a href="/team" class="active-trail active">Team</a></li>
+<li class="leaf"><a href="/plan">Plan</a></li>
+<li class="leaf"><a href="/features">Features</a></li>
+<li class="leaf"><a href="/news">News</a></li>
+<li class="last leaf"><a href="https://www.mynational.org.nz/" rel="external" target="_blank">Get Involved</a></li>
+</ul>
+</section> <!-- /.block -->
+<section id="block-menu-block-6" class="block block-menu-block follow col-xs-12 col-sm-7 col-lg-6 clearfix">
+
+        <h2 class="block-title">Follow us</h2>
+    
+  <div class="menu-block-wrapper menu-block-6 menu-name-menu-follow-links parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-172902"><a href="https://www.facebook.com/NZNATS" class="follow--facebook" target="_blank">Join the conversation</a></li>
+<li class="leaf menu-mlid-172903"><a href="https://twitter.com/NZNationalParty" class="follow--twitter" target="_blank">Get the latest news and engage</a></li>
+<li class="leaf menu-mlid-172904"><a href="http://www.youtube.com/user/NZNats" class="follow--youtube" target="_blank">Watch National&#039;s videos</a></li>
+<li class="last leaf menu-mlid-172905"><a href="http://www.flickr.com/photos/nznationalparty/" class="follow--flickr" target="_blank">See our photos</a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+  </div>
+            </div>
+          </div>
+                
+                  <div class="col-md-6 footer__second">
+            <div class="row">
+                <div class="region region-footer-second">
+    <section id="block-block-26" class="block block-block campaign-monitor campaign-monitor--small col-xs-12 col-md-7 clearfix">
+
+        <h2 class="block-title">Sign up to get updates from Bill English and National</h2>
+    
+  <form action="https://nationalleadersoffice.createsend.com/t/i/s/jkuhdu/" method="post" id="subForm"><p>
+<label for="fieldName">Name</label><input id="fieldName" name="cm-name" type="text" required="" placeholder="Your name">
+<label for="fieldEmail">Email</label><input id="fieldEmail" name="cm-jkuhdu-jkuhdu" type="email" placeholder="Your email" required=""><button type="submit" class="btn">Subscribe</button></p></form>
+</section> <!-- /.block -->
+<section id="block-block-12" class="block block-block col-md-5 col-xs-12 clearfix">
+
+      
+  <p><a class="crest crest--footer" href="https://www.national.org.nz/">National Party New Zealand</a></p>
+
+</section> <!-- /.block -->
+  </div>
+            </div>
+          </div>
+                
+        </div>
+      </footer>
+      
+      
+        
+            <div class="region post-footer">
+        <div class="region__inner container">
+          <div class="row">
+            <div class="col-md-12">  <div class="region region-post-footer">
+    <section id="block-block-21" class="block block-block endorsement col-xs-12 col-sm-8 clearfix">
+
+      
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 52.56 76" width="52.56" height="76"><path d="M27,24A25.76,25.76,0,1,0,52.76,49.72,25.76,25.76,0,0,0,27,24h0Zm0-.52A26.28,26.28,0,1,1,.72,49.72,26.28,26.28,0,0,1,27,23.44h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M27,31.9A17.82,17.82,0,1,0,44.82,49.72,17.82,17.82,0,0,0,27,31.9h0Zm0-.52A18.34,18.34,0,1,1,8.66,49.72,18.34,18.34,0,0,1,27,31.38h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M5.91,41.33a0.75,0.75,0,1,1,.75.75,0.75,0.75,0,0,1-.75-0.75h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M46.33,41.41a0.75,0.75,0,1,1,.75.75,0.74,0.74,0,0,1-.75-0.75h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M11.35,34.41a1.06,1.06,0,0,1,.25-0.23,0.17,0.17,0,0,1,.17.08L12.56,35a3.46,3.46,0,0,1,.39.39,0.28,0.28,0,0,1,.08.24,0.69,0.69,0,0,1-.13.23L12.81,36a0.15,0.15,0,0,0,.06.1,0.12,0.12,0,0,0,.11,0c0.21-.25.42-0.49,0.65-0.74L14,35l0.34-.35a0.11,0.11,0,0,0,0-.1,0.18,0.18,0,0,0-.11,0l-0.13.1a0.61,0.61,0,0,1-.22.15,0.33,0.33,0,0,1-.25-0.06,2.9,2.9,0,0,1-.42-0.35l-2-1.83a3.16,3.16,0,0,1-.38-0.39,0.31,0.31,0,0,1-.08-0.24,0.67,0.67,0,0,1,.12-0.24l0.07-.11a0.14,0.14,0,0,0-.06-0.1,0.13,0.13,0,0,0-.11,0l-0.3.35-0.32.36c-0.21.24-.44,0.47-0.68,0.71a0.11,0.11,0,0,0,0,.1,0.17,0.17,0,0,0,.12.07l0.13-.1a0.61,0.61,0,0,1,.22-0.15,0.32,0.32,0,0,1,.25.06,3.47,3.47,0,0,1,.43.35l0.65,0.6a0.19,0.19,0,0,1,.1.17,0.85,0.85,0,0,1-.2.27L10,35.46a1.06,1.06,0,0,1-.25.23,0.18,0.18,0,0,1-.18-0.08L8.88,35a3.16,3.16,0,0,1-.38-0.39,0.31,0.31,0,0,1-.08-0.24,0.59,0.59,0,0,1,.12-0.24L8.61,34a0.14,0.14,0,0,0-.06-0.1,0.12,0.12,0,0,0-.11,0c-0.09.11-.19,0.23-0.3,0.34l-0.32.36L7.48,35l-0.34.35a0.14,0.14,0,0,0,0,.11,0.12,0.12,0,0,0,.1,0l0.13-.1a0.61,0.61,0,0,1,.22-0.15,0.32,0.32,0,0,1,.25.06,3.47,3.47,0,0,1,.43.35l2,1.83a3.46,3.46,0,0,1,.39.39,0.33,0.33,0,0,1,.09.24,0.89,0.89,0,0,1-.12.24l-0.06.09a0.15,0.15,0,0,0,.06.1,0.1,0.1,0,0,0,.1,0l0.29-.34,0.32-.36,0.34-.36,0.37-.38a0.11,0.11,0,0,0,0-.1,0.16,0.16,0,0,0-.11,0l-0.17.14a0.71,0.71,0,0,1-.22.15,0.29,0.29,0,0,1-.24-0.06,2.9,2.9,0,0,1-.42-0.35l-0.79-.72A0.15,0.15,0,0,1,10,36a0.79,0.79,0,0,1,.21-0.27l1.13-1.27h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M14.88,28.83a1.33,1.33,0,0,1,1-.14,2.15,2.15,0,0,1,.91.52,3.72,3.72,0,0,1,.7.88,2.5,2.5,0,0,1,.4,1.6,1.3,1.3,0,0,1-.68.95,1.44,1.44,0,0,1-1.06.15,2.19,2.19,0,0,1-.91-0.54,3.75,3.75,0,0,1-.66-0.85,2.74,2.74,0,0,1-.4-1.19,1.55,1.55,0,0,1,.17-0.86,1.39,1.39,0,0,1,.53-0.52h0Zm-0.06-.3a2.7,2.7,0,0,0-1,1,2.4,2.4,0,0,0-.34,1.25,2.74,2.74,0,0,0,.36,1.33,2.59,2.59,0,0,0,.86.91,2.27,2.27,0,0,0,1.21.34A2.92,2.92,0,0,0,18.28,32a2.3,2.3,0,0,0,.35-1.22,2.45,2.45,0,0,0-.34-1.29,2.78,2.78,0,0,0-.86-0.94,2.25,2.25,0,0,0-1.2-.39,2.57,2.57,0,0,0-1.41.37h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M20.27,29.28a3.27,3.27,0,0,0,.32.89,1.4,1.4,0,0,0,.49.53,1.51,1.51,0,0,0,.68.21,3.23,3.23,0,0,0,.89-0.08,2.45,2.45,0,0,0,.72-0.28A1.67,1.67,0,0,0,23.93,30a1.58,1.58,0,0,0,.21-0.81A3.49,3.49,0,0,0,24,28.24l-0.19-.85c-0.07-.29-0.12-0.57-0.17-0.83a1.88,1.88,0,0,1,0-.59,0.24,0.24,0,0,1,.1-0.14,0.77,0.77,0,0,1,.18-0.1l0.15-.07a0.14,0.14,0,0,0,0-.11A0.11,0.11,0,0,0,24,25.47l-0.36.09-0.39.09-0.41.09-0.39.07a0.12,0.12,0,0,0,0,.1,0.13,0.13,0,0,0,.07.1h0.15a0.83,0.83,0,0,1,.23,0,0.35,0.35,0,0,1,.16.09,1,1,0,0,1,.17.32c0,0.15.1,0.32,0.15,0.5s0.09,0.37.13,0.55l0.2,0.89a2.33,2.33,0,0,1,0,1.37,1.33,1.33,0,0,1-1.73.63,1.39,1.39,0,0,1-.54-0.56,3.5,3.5,0,0,1-.32-0.88L20.7,27.29a2.66,2.66,0,0,1-.09-0.54,0.34,0.34,0,0,1,.07-0.25,0.54,0.54,0,0,1,.24-0.12l0.15-.06a0.16,0.16,0,0,0,0-.12A0.1,0.1,0,0,0,21,26.12l-0.47.12-0.48.11-0.47.1-0.45.08a0.11,0.11,0,0,0,0,.1,0.17,0.17,0,0,0,.06.1H19.3a0.74,0.74,0,0,1,.27,0,0.3,0.3,0,0,1,.17.19,5.16,5.16,0,0,1,.15.53l0.38,1.81h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M27.24,30.33A1.8,1.8,0,0,0,28.49,30a1.34,1.34,0,0,0,.48-1,1.37,1.37,0,0,0-.3-0.91A2.25,2.25,0,0,0,28,27.49l-0.45-.25A1.56,1.56,0,0,1,27,26.8a0.73,0.73,0,0,1-.15-0.47,0.77,0.77,0,0,1,.2-0.52,0.83,0.83,0,0,1,.64-0.22,0.93,0.93,0,0,1,.5.15,1,1,0,0,1,.3.34,2.23,2.23,0,0,1,.16.4,0.18,0.18,0,0,0,.13,0,0.13,0.13,0,0,0,.11,0,5.4,5.4,0,0,0,0-.56,3.06,3.06,0,0,0-.09-0.43l-0.48-.11a2.62,2.62,0,0,0-.51-0.07,1.78,1.78,0,0,0-1.21.36,1.3,1.3,0,0,0-.15,1.77,2.5,2.5,0,0,0,.7.59l0.31,0.18a1.8,1.8,0,0,1,.57.5,1,1,0,0,1,.15.57,0.76,0.76,0,0,1-.24.55,0.92,0.92,0,0,1-.65.21,0.94,0.94,0,0,1-.6-0.23,1.62,1.62,0,0,1-.39-0.48,2.55,2.55,0,0,1-.21-0.47,0.12,0.12,0,0,0-.12,0,0.11,0.11,0,0,0-.11.06,3.66,3.66,0,0,0,0,.67,1.29,1.29,0,0,0,.15.45,2.19,2.19,0,0,0,.39.2,2.86,2.86,0,0,0,.79.13h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M30.63,29.47a3.2,3.2,0,0,1-.16.53,0.3,0.3,0,0,1-.17.19,0.6,0.6,0,0,1-.27,0l-0.27,0a0.17,0.17,0,0,0-.06.1,0.13,0.13,0,0,0,0,.11l0.54,0.11,0.53,0.12,0.81,0.19,1.07,0.26,0.68,0.18A1.85,1.85,0,0,0,33.53,31a3.07,3.07,0,0,0,.2-0.36,3.26,3.26,0,0,0,.16-0.34,0.2,0.2,0,0,0-.09-0.09,0.15,0.15,0,0,0-.13,0,2.06,2.06,0,0,1-.36.4,0.77,0.77,0,0,1-.43.15,2.32,2.32,0,0,1-.7-0.1,2.38,2.38,0,0,1-.58-0.19,0.36,0.36,0,0,1-.18-0.16,0.54,0.54,0,0,1,0-.3,3.67,3.67,0,0,1,.09-0.46l0.22-.9a0.37,0.37,0,0,1,.06-0.16,0.16,0.16,0,0,1,.15,0l0.34,0.08a2.21,2.21,0,0,1,.59.19,0.3,0.3,0,0,1,.12.31l0,0.29a0.2,0.2,0,0,0,.11.06,0.16,0.16,0,0,0,.12,0c0-.11,0-0.23.07-0.36s0-.25.09-0.39,0.07-.26.1-0.38,0.06-.23.09-0.32a0.16,0.16,0,0,0-.09-0.07,0.19,0.19,0,0,0-.13,0l-0.1.22a0.32,0.32,0,0,1-.25.23,2.07,2.07,0,0,1-.61-0.1L32,28.14a0.31,0.31,0,0,1-.14-0.06,0.28,0.28,0,0,1,0-.17l0.29-1.2a0.67,0.67,0,0,1,.13-0.35,0.3,0.3,0,0,1,.28,0l0.47,0.11a1.4,1.4,0,0,1,.29.09,1.56,1.56,0,0,1,.26.11,0.47,0.47,0,0,1,.22.26,1.52,1.52,0,0,1,.07.5,0.17,0.17,0,0,0,.12,0,0.12,0.12,0,0,0,.12,0c0-.11,0-0.23,0-0.37s0-.27,0-0.39,0-.2,0-0.25l-0.34-.07-0.62-.14-1.35-.32-0.47-.12L31,25.68a0.11,0.11,0,0,0-.07.08,0.17,0.17,0,0,0,0,.12l0.11,0a0.53,0.53,0,0,1,.23.13,0.34,0.34,0,0,1,.07.25,3.58,3.58,0,0,1-.1.54l-0.64,2.63h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M40.9,30a1.34,1.34,0,0,1,.55.85,2.23,2.23,0,0,1-.08,1,3.5,3.5,0,0,1-.51,1,2.5,2.5,0,0,1-1.28,1,1.28,1.28,0,0,1-1.15-.22,1.41,1.41,0,0,1-.58-0.89,2.28,2.28,0,0,1,.1-1.06,3.34,3.34,0,0,1,.49-1,2.8,2.8,0,0,1,.9-0.87,1.46,1.46,0,0,1,.85-0.2,1.3,1.3,0,0,1,.71.26h0Zm0.25-.18a2.75,2.75,0,0,0-1.3-.51,2.45,2.45,0,0,0-1.28.21,2.69,2.69,0,0,0-1,.89,2.41,2.41,0,0,0-.25,2.41,2.83,2.83,0,0,0,.94,1.1,2.8,2.8,0,0,0,1.27.5,2.32,2.32,0,0,0,1.25-.2,2.51,2.51,0,0,0,1-.85,2.83,2.83,0,0,0,.49-1.18,2.17,2.17,0,0,0-.16-1.25,2.63,2.63,0,0,0-.93-1.12h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M45.35,33.78L45,33.41c-0.1-.12-0.18-0.24-0.26-0.34a0.15,0.15,0,0,0-.11,0,0.17,0.17,0,0,0-.07.1l0,0.08a0.7,0.7,0,0,1,.11.24,0.33,0.33,0,0,1-.09.24,3.46,3.46,0,0,1-.41.37l-2.09,1.72a3.76,3.76,0,0,1-.44.33,0.31,0.31,0,0,1-.25,0,0.65,0.65,0,0,1-.21-0.16L41.16,36a0.13,0.13,0,0,0-.11,0,0.11,0.11,0,0,0,0,.1c0.22,0.25.44,0.5,0.64,0.75L42,37.24l0.38,0.48a0.13,0.13,0,0,0,.11,0,0.17,0.17,0,0,0,.07-0.1l-0.17-.26a0.67,0.67,0,0,1-.12-0.24,0.27,0.27,0,0,1,.09-0.23,3.18,3.18,0,0,1,.4-0.37l0.79-.65a0.27,0.27,0,0,1,.15-0.09,0.17,0.17,0,0,1,.12.1l0.27,0.33a2,2,0,0,1,.36.51,0.32,0.32,0,0,1-.09.33l-0.18.23a0.13,0.13,0,0,0,0,.11,0.12,0.12,0,0,0,.1,0c0.09-.07.18-0.16,0.27-0.24l0.3-.26,0.31-.25,0.27-.21a0.14,0.14,0,0,0,0-.11,0.12,0.12,0,0,0-.1-0.06l-0.23.11a0.32,0.32,0,0,1-.34,0A2.35,2.35,0,0,1,44.3,36L44,35.63A0.2,0.2,0,0,1,44,35.49a0.27,0.27,0,0,1,.11-0.13l1-.83a0.7,0.7,0,0,1,.31-0.2,0.33,0.33,0,0,1,.22.17l0.24,0.29C45.93,34.88,46,35,46.05,35a1.35,1.35,0,0,1,.15.26,0.46,0.46,0,0,1,0,.38,1.25,1.25,0,0,1-.27.43,0.21,0.21,0,0,0,.07.12,0.12,0.12,0,0,0,.1,0L46.41,36l0.3-.25,0.21-.17-0.27-.29-0.41-.48-0.89-1h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M6.89,47.46a0.46,0.46,0,0,1,.3.07,0.48,0.48,0,0,1,0,.34,0.92,0.92,0,0,1-.38.71,1.08,1.08,0,0,1-.77.2,1.05,1.05,0,0,1-.76-0.31,1.09,1.09,0,0,1-.2-0.81,0.6,0.6,0,0,1,.06-0.3,0.21,0.21,0,0,1,.21,0l1.52,0.13h0ZM3.83,46.37a3.78,3.78,0,0,1-.55-0.07,0.31,0.31,0,0,1-.21-0.14,0.62,0.62,0,0,1,0-.26V45.74a0.13,0.13,0,0,0-.11,0,0.11,0.11,0,0,0-.1,0c0,0.34,0,.66-0.06,1,0,0.16,0,.32,0,0.48s0,0.32,0,.48a0.15,0.15,0,0,0,.09.06,0.12,0.12,0,0,0,.12,0l0-.16A0.6,0.6,0,0,1,3,47.3a0.28,0.28,0,0,1,.23-0.1,3.54,3.54,0,0,1,.55,0l0.93,0.07a0.19,0.19,0,0,1,.14,0,0.37,0.37,0,0,1,0,.2,0.49,0.49,0,0,1-.06.27,0.6,0.6,0,0,1-.22.17l-0.51.24c-0.18.09-.36,0.17-0.52,0.26a2.49,2.49,0,0,0-.79.61,1.48,1.48,0,0,0-.29.84c0,0.13,0,.23,0,0.3a0.74,0.74,0,0,0,0,.18l0.07,0,0.07,0a1,1,0,0,1,.07-0.2,0.92,0.92,0,0,1,.2-0.28,2.93,2.93,0,0,1,.72-0.5c0.33-.18.75-0.39,1.26-0.64a0.1,0.1,0,0,1,.07,0,0.05,0.05,0,0,1,.05,0,2,2,0,0,0,.18.4,1.48,1.48,0,0,0,.34.37,1.16,1.16,0,0,0,.55.19,1.21,1.21,0,0,0,.67-0.13,1.23,1.23,0,0,0,.45-0.43,1.71,1.71,0,0,0,.23-0.58,4.26,4.26,0,0,0,.12-0.78c0-.3,0-0.6.05-0.89s0-.55,0-0.79a0.11,0.11,0,0,0-.09,0,0.2,0.2,0,0,0-.11,0l0,0.19a0.3,0.3,0,0,1-.19.29,2.28,2.28,0,0,1-.66,0l-2.68-.23h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M3.74,52.44a4,4,0,0,1-.55.06A0.33,0.33,0,0,1,3,52.42a0.54,0.54,0,0,1-.1-0.24l-0.07-.26a0.12,0.12,0,0,0-.12,0,0.11,0.11,0,0,0-.09.06c0,0.16.07,0.34,0.11,0.54s0.07,0.37.09,0.54l0.14,0.82L3.09,55c0,0.3.08,0.53,0.1,0.69L3.5,55.71l0.41,0,0.37,0a0.13,0.13,0,0,0,.05-0.12,0.21,0.21,0,0,0,0-.12,2.16,2.16,0,0,1-.51-0.17A0.74,0.74,0,0,1,3.47,55a2.19,2.19,0,0,1-.18-0.68,2.83,2.83,0,0,1-.06-0.61,0.38,0.38,0,0,1,.08-0.23,0.56,0.56,0,0,1,.27-0.15A3.26,3.26,0,0,1,4,53.26L5,53.11a0.23,0.23,0,0,1,.17,0,0.24,0.24,0,0,1,.05.14l0.06,0.34a2,2,0,0,1,.06.62,0.3,0.3,0,0,1-.24.23l-0.28.1a0.19,0.19,0,0,0,0,.13,0.12,0.12,0,0,0,.06.1l0.36-.07,0.39-.07L6,54.57l0.33,0a0.12,0.12,0,0,0,0-.11,0.23,0.23,0,0,0-.06-0.12L6,54.27a0.31,0.31,0,0,1-.31-0.14,2.18,2.18,0,0,1-.14-0.6l-0.06-.34a0.18,0.18,0,0,1,0-.15,0.29,0.29,0,0,1,.16,0l1.22-.2a0.68,0.68,0,0,1,.37,0,0.3,0.3,0,0,1,.1.26l0.08,0.48c0,0.1,0,.2,0,0.3a1.31,1.31,0,0,1,0,.28,0.44,0.44,0,0,1-.15.3,1.46,1.46,0,0,1-.43.26,0.15,0.15,0,0,0,0,.13,0.2,0.2,0,0,0,.07.1l0.36-.1,0.38-.1a1.28,1.28,0,0,0,.24-0.08s0-.17-0.08-0.34-0.07-.39-0.11-0.62L7.51,52.27c0-.16-0.05-0.32-0.08-0.48s0-.31-0.06-0.45a0.15,0.15,0,0,0-.1,0,0.19,0.19,0,0,0-.11,0v0.12a0.56,0.56,0,0,1,0,.27,0.28,0.28,0,0,1-.2.15A3.25,3.25,0,0,1,6.4,52l-2.66.42h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M5,57.71a4,4,0,0,1-.52.19,0.36,0.36,0,0,1-.26,0,0.63,0.63,0,0,1-.16-0.21L4,57.55a0.17,0.17,0,0,0-.12,0,0.11,0.11,0,0,0-.07.08c0.06,0.13.13,0.27,0.19,0.42s0.13,0.29.19,0.44L4.38,59,4.59,59.5a0.09,0.09,0,0,0,.1,0,0.14,0.14,0,0,0,.09-0.07L4.7,59.18a0.52,0.52,0,0,1,0-.26,0.32,0.32,0,0,1,.16-0.2,4,4,0,0,1,.5-0.24l2.94-1.22a0.31,0.31,0,0,1,.26,0,0.6,0.6,0,0,1,.17.28,1,1,0,0,1,0,.84,1.18,1.18,0,0,1-.61.55,1.34,1.34,0,0,1-.8.11,1,1,0,0,1-.67-0.48,0.1,0.1,0,0,0-.09,0,0.27,0.27,0,0,0-.07.08l0,0.09a0.94,0.94,0,0,1,0,.09,2.24,2.24,0,0,0,.37.58,1.48,1.48,0,0,0,.65.44A1.38,1.38,0,0,0,9,59.35a1.36,1.36,0,0,0,.25-0.59,2.2,2.2,0,0,0,0-.66,4.87,4.87,0,0,0-.27-0.86c-0.12-.3-0.24-0.57-0.34-0.79S8.34,56,8.22,55.78a0.11,0.11,0,0,0-.1,0,0.18,0.18,0,0,0-.09.08L8.1,56.1a0.26,0.26,0,0,1-.06.32,2.37,2.37,0,0,1-.58.28L5,57.71H5Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M10.51,61.53a0.53,0.53,0,0,1,.27-0.15,0.57,0.57,0,0,1,.25.24,1,1,0,0,1,.2.78,1.11,1.11,0,0,1-.44.67,1.06,1.06,0,0,1-.77.27,1.06,1.06,0,0,1-.69-0.47,0.68,0.68,0,0,1-.16-0.27,0.27,0.27,0,0,1,.14-0.16l1.2-.91h0Zm-3,1.24a3.75,3.75,0,0,1-.45.31,0.3,0.3,0,0,1-.25,0A0.83,0.83,0,0,1,6.6,63l-0.11-.11a0.15,0.15,0,0,0-.12,0,0.11,0.11,0,0,0,0,.1L7,63.76l0.29,0.39,0.28,0.39a0.12,0.12,0,0,0,.11,0,0.15,0.15,0,0,0,.07-0.09l-0.08-.14a0.65,0.65,0,0,1-.1-0.24,0.28,0.28,0,0,1,.1-0.23A3,3,0,0,1,8,63.46l0.74-.57a0.16,0.16,0,0,1,.13-0.06,0.35,0.35,0,0,1,.14.14,0.57,0.57,0,0,1,.13.24,0.49,0.49,0,0,1-.05.27C9.07,63.64,9,63.81,8.91,64l-0.22.54a2.38,2.38,0,0,0-.18,1,1.52,1.52,0,0,0,.34.82C8.93,66.44,9,66.52,9,66.57a1.21,1.21,0,0,0,.13.12l0.07,0a0.16,0.16,0,0,0,0-.07,0.63,0.63,0,0,1-.09-0.2,1.13,1.13,0,0,1,0-.34,3.25,3.25,0,0,1,.2-0.85c0.13-.35.29-0.79,0.51-1.32a0.16,0.16,0,0,1,0-.07,0,0,0,0,1,.06,0,1.46,1.46,0,0,0,.4.17,1.19,1.19,0,0,0,.5,0,1.06,1.06,0,0,0,.54-0.23,1.15,1.15,0,0,0,.41-0.54,1.19,1.19,0,0,0,0-.62A2,2,0,0,0,11.64,62a5.25,5.25,0,0,0-.43-0.66c-0.18-.24-0.37-0.47-0.55-0.7s-0.36-.42-0.52-0.59a0.12,0.12,0,0,0-.1,0,0.18,0.18,0,0,0-.06.09l0.1,0.16a0.33,0.33,0,0,1,.06.34,2.2,2.2,0,0,1-.5.44L7.51,62.77h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M11.53,67.3a2.32,2.32,0,0,1-.37.41,0.29,0.29,0,0,1-.23.1,0.7,0.7,0,0,1-.24-0.11l-0.23-.15a0.17,0.17,0,0,0-.1.07,0.12,0.12,0,0,0,0,.11l0.44,0.33,0.43,0.33,0.65,0.52,0.86,0.69q0.36,0.29.54,0.45a2.3,2.3,0,0,0,.27-0.16l0.34-.24,0.29-.24a0.19,0.19,0,0,0,0-.12A0.14,0.14,0,0,0,14,69.23a1.87,1.87,0,0,1-.49.2,0.7,0.7,0,0,1-.45,0A2.27,2.27,0,0,1,12.48,69,4.41,4.41,0,0,1,12,68.6a0.38,0.38,0,0,1-.1-0.22,0.56,0.56,0,0,1,.1-0.29,3.29,3.29,0,0,1,.28-0.38L12.89,67A0.22,0.22,0,0,1,13,66.87a0.2,0.2,0,0,1,.14.07l0.27,0.22a2.25,2.25,0,0,1,.46.42,0.29,0.29,0,0,1,0,.33l-0.14.26a0.19,0.19,0,0,0,.08.1,0.19,0.19,0,0,0,.11,0l0.22-.3,0.24-.32,0.25-.3,0.22-.26a0.12,0.12,0,0,0-.06-0.1A0.21,0.21,0,0,0,14.65,67l-0.2.16a0.31,0.31,0,0,1-.32.1,2.71,2.71,0,0,1-.51-0.35l-0.27-.22a0.28,0.28,0,0,1-.1-0.11,0.24,0.24,0,0,1,.09-0.15l0.77-1a0.92,0.92,0,0,1,.26-0.27,0.29,0.29,0,0,1,.25.13L15,65.61l0.23,0.2L15.42,66a0.46,0.46,0,0,1,.09.33,1.83,1.83,0,0,1-.14.48,0.17,0.17,0,0,0,.09.1,0.13,0.13,0,0,0,.11,0l0.2-.32L16,66.31a1.76,1.76,0,0,0,.13-0.21l-0.29-.21-0.5-.39-1.09-.87-0.38-.31a3.45,3.45,0,0,1-.34-0.3,0.12,0.12,0,0,0-.1.05,0.15,0.15,0,0,0,0,.11l0.08,0.08a0.65,0.65,0,0,1,.16.21,0.3,0.3,0,0,1,0,.25,3.36,3.36,0,0,1-.32.45L11.53,67.3h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M16.23,71.76a1.86,1.86,0,0,0,1.29.17,1.31,1.31,0,0,0,.85-0.73,1.39,1.39,0,0,0,.1-0.95,2.06,2.06,0,0,0-.38-0.77l-0.31-.41a1.52,1.52,0,0,1-.29-0.61,0.73,0.73,0,0,1,0-.49,0.8,0.8,0,0,1,.4-0.39,0.81,0.81,0,0,1,.67.06A1,1,0,0,1,19,68a1,1,0,0,1,.14.44,1.54,1.54,0,0,1,0,.43,0.16,0.16,0,0,0,.1.08,0.13,0.13,0,0,0,.12,0,4,4,0,0,0,.2-0.52A1.56,1.56,0,0,0,19.64,68l-0.4-.3a4.24,4.24,0,0,0-.44-0.27,1.75,1.75,0,0,0-1.25-.16,1.25,1.25,0,0,0-.77.67,1.31,1.31,0,0,0-.08.89,2.41,2.41,0,0,0,.4.82l0.21,0.29a1.59,1.59,0,0,1,.31.69,1,1,0,0,1-.09.58,0.75,0.75,0,0,1-.45.41,0.94,0.94,0,0,1-.68-0.08,1,1,0,0,1-.45-0.46,1.86,1.86,0,0,1-.17-0.6,2.24,2.24,0,0,1,0-.52,0.18,0.18,0,0,0-.09-0.08,0.13,0.13,0,0,0-.12,0,3.2,3.2,0,0,0-.23.63,1.24,1.24,0,0,0-.05.47,1.91,1.91,0,0,0,.28.34,2.34,2.34,0,0,0,.66.45h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M20.4,72.18a3.2,3.2,0,0,1-.16.53,0.32,0.32,0,0,1-.17.19,0.61,0.61,0,0,1-.27,0l-0.27,0a0.17,0.17,0,0,0-.06.1,0.09,0.09,0,0,0,0,.1L20,73.17l0.53,0.12,0.81,0.2,1.07,0.26,0.68,0.18a2.73,2.73,0,0,0,.18-0.26l0.21-.36A3.26,3.26,0,0,0,23.68,73a0.16,0.16,0,0,0-.09-0.09,0.2,0.2,0,0,0-.13,0,1.73,1.73,0,0,1-.36.39,0.78,0.78,0,0,1-.43.16,2.32,2.32,0,0,1-.7-0.1,3.42,3.42,0,0,1-.58-0.18A0.36,0.36,0,0,1,21.21,73a0.47,0.47,0,0,1,0-.3,2.45,2.45,0,0,1,.09-0.46l0.22-.9a0.27,0.27,0,0,1,.06-0.15,0.18,0.18,0,0,1,.16,0L22,71.26a2.09,2.09,0,0,1,.6.19,0.29,0.29,0,0,1,.11.31l0,0.3a0.17,0.17,0,0,0,.11.06,0.13,0.13,0,0,0,.11,0c0-.11,0-0.23.08-0.36s0-.26.09-0.39,0.06-.26.1-0.38,0.06-.23.09-0.33a0.15,0.15,0,0,0-.1-0.07,0.19,0.19,0,0,0-.13,0L23,70.82a0.29,0.29,0,0,1-.25.22,2,2,0,0,1-.61-0.1l-0.34-.08a0.2,0.2,0,0,1-.14-0.06,0.22,0.22,0,0,1,0-.17L22,69.43a0.81,0.81,0,0,1,.12-0.35,0.3,0.3,0,0,1,.28,0l0.47,0.11a1.61,1.61,0,0,1,.29.09l0.26,0.11a0.47,0.47,0,0,1,.22.26,1.57,1.57,0,0,1,.07.5,0.17,0.17,0,0,0,.12.05,0.1,0.1,0,0,0,.11,0c0-.11,0-0.23,0-0.38s0-.27,0-0.39a1.75,1.75,0,0,0,0-.25l-0.35-.07L23.05,69l-1.35-.33-0.47-.12-0.44-.12a0.11,0.11,0,0,0-.07.09,0.13,0.13,0,0,0,0,.12l0.11,0a0.66,0.66,0,0,1,.24.13,0.3,0.3,0,0,1,.06.25,3.89,3.89,0,0,1-.1.55L20.4,72.18h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M30,71.05c0-.3,0-0.58,0-0.85A2.12,2.12,0,0,1,30,69.61a0.18,0.18,0,0,1,.12-0.12l0.19-.06,0.17,0a0.15,0.15,0,0,0,0-.21l-0.36,0-0.4,0-0.42,0H28.84a0.11,0.11,0,0,0,0,.1,0.13,0.13,0,0,0,0,.11H29a0.71,0.71,0,0,1,.23.05,0.28,0.28,0,0,1,.14.12,1.6,1.6,0,0,1,.15.59q0,0.4.06,0.84l0.06,1.42v0.12a0.08,0.08,0,0,1,0,.05l-0.25-.23L28.93,72l-0.41-.42-0.76-.75-0.41-.43C27.17,70.19,27,70,26.84,69.81a3,3,0,0,1-.33-0.45l-0.26,0L26,69.4l-0.39,0a3.68,3.68,0,0,1-.47,0,0.14,0.14,0,0,0-.06.1,0.12,0.12,0,0,0,0,.11l0.11,0,0.2,0.05a0.56,0.56,0,0,1,.42.39,2.49,2.49,0,0,1,0,.58L26,72.39c0,0.3,0,.58,0,0.85a2.12,2.12,0,0,1-.06.59,0.18,0.18,0,0,1-.12.12L25.65,74l-0.16,0a0.11,0.11,0,0,0,0,.11,0.14,0.14,0,0,0,.06.1l0.36,0,0.4,0,0.42,0h0.41a0.11,0.11,0,0,0,0-.1,0.13,0.13,0,0,0,0-.11l-0.16,0a0.71,0.71,0,0,1-.23-0.05,0.44,0.44,0,0,1-.15-0.12,1.88,1.88,0,0,1-.14-0.59q0-.4-0.06-0.84l-0.06-1.42c0-.19,0-0.32,0-0.38a0.1,0.1,0,0,1,0-.09l0.3,0.28,0.57,0.6L29,73.22l0.61,0.64,0.29,0.32,0.13,0a0.31,0.31,0,0,0,.11-0.09q0-.09,0-0.36l0-.53c0-.18,0-0.31,0-0.39L30,71.05h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M34.36,71.9a2.21,2.21,0,0,1,.15.53,0.29,0.29,0,0,1,0,.24,0.64,0.64,0,0,1-.22.14L34,72.95a0.11,0.11,0,0,0,0,.11,0.13,0.13,0,0,0,.08.08l0.58-.22,0.48-.18,0.47-.16,0.55-.18a0.13,0.13,0,0,0,0-.11,0.13,0.13,0,0,0-.07-0.09l-0.26.06a0.69,0.69,0,0,1-.27,0,0.3,0.3,0,0,1-.19-0.17,2.82,2.82,0,0,1-.21-0.51l-1-3A1,1,0,0,1,34,68.37a0.2,0.2,0,0,1,.15-0.1l0.39-.14A1.78,1.78,0,0,1,35.14,68a0.46,0.46,0,0,1,.35.1,1.31,1.31,0,0,1,.27.37,0.19,0.19,0,0,0,.13,0A0.14,0.14,0,0,0,36,68.36,2.8,2.8,0,0,1,35.86,68c0-.14-0.08-0.28-0.11-0.43a3.63,3.63,0,0,1-.06-0.38h-0.1l0,0,0,0a0.31,0.31,0,0,1-.11.21,1.19,1.19,0,0,1-.35.15l-2.8,1a2.8,2.8,0,0,1-.47.14,0.18,0.18,0,0,1-.19-0.1H31.51a0.1,0.1,0,0,0-.07.05c0,0.14,0,.3.06,0.51s0,0.41,0,.62a0.14,0.14,0,0,0,.13,0,0.17,0.17,0,0,0,.11-0.06A1.07,1.07,0,0,1,32,69.17a1.5,1.5,0,0,1,.64-0.35L33,68.68a0.2,0.2,0,0,1,.18,0,0.8,0.8,0,0,1,.12.25l1,3h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M38.45,68.83a0.2,0.2,0,0,1-.14.06,0.31,0.31,0,0,1-.07-0.18L38,67.83,38,67.42a1.29,1.29,0,0,1,0-.19h0l0.14,0.1,0.34,0.27,0.73,0.57a0.14,0.14,0,0,1,.09.13,0.29,0.29,0,0,1-.14.12l-0.64.42h0Zm0.89-.18a0.36,0.36,0,0,1,.18-0.09,0.29,0.29,0,0,1,.18.09l0.82,0.65a0.37,0.37,0,0,1,.19.22,0.27,0.27,0,0,1-.14.2l-0.12.1a0.14,0.14,0,0,0,0,.11,0.12,0.12,0,0,0,.1.06l0.35-.24,0.39-.26,0.43-.27L42.14,69a0.12,0.12,0,0,0,0-.1,0.14,0.14,0,0,0-.1-0.07l-0.1,0a0.58,0.58,0,0,1-.38.07,1.26,1.26,0,0,1-.43-0.27l-2.52-2-0.41-.33L37.77,66H37.71l-0.07,0s0,0.09,0,.22a0.8,0.8,0,0,1-.19.35,0.53,0.53,0,0,1,.09.2c0,0.09,0,.2.07,0.32l0.55,2.72c0,0.21.08,0.39,0.11,0.55s0,0.29.07,0.39a0.54,0.54,0,0,1,0,.29,0.46,0.46,0,0,1-.15.2L38,71.4a0.27,0.27,0,0,0,0,.12,0.13,0.13,0,0,0,.09.06l0.3-.21c0.09-.07.2-0.13,0.3-0.2L39,71a2.48,2.48,0,0,1,.31-0.18,0.11,0.11,0,0,0,0-.11,0.14,0.14,0,0,0-.09-0.08l-0.2.08a0.25,0.25,0,0,1-.25,0,0.87,0.87,0,0,1-.14-0.37l-0.22-.9a0.39,0.39,0,0,1,0-.19,0.25,0.25,0,0,1,.13-0.11l0.8-.49h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M43.55,66.14a4,4,0,0,1,.38.4,0.27,0.27,0,0,1,.07.24,0.8,0.8,0,0,1-.13.23l-0.18.25a0.14,0.14,0,0,0,0,.1,0.12,0.12,0,0,0,.11,0l0.41-.46,0.35-.37,0.34-.36,0.41-.41a0.11,0.11,0,0,0,0-.1,0.12,0.12,0,0,0-.1-0.05l-0.2.17a1,1,0,0,1-.22.15,0.27,0.27,0,0,1-.24-0.07,2.53,2.53,0,0,1-.42-0.36l-2.29-2.17a0.64,0.64,0,0,1-.18-0.21A0.18,0.18,0,0,1,41.76,63L42,62.7a2,2,0,0,1,.45-0.39,0.52,0.52,0,0,1,.36-0.07,1.22,1.22,0,0,1,.41.21,0.14,0.14,0,0,0,.1-0.07,0.13,0.13,0,0,0,0-.11A1.64,1.64,0,0,1,43.15,62c-0.1-.1-0.2-0.22-0.29-0.33a3.46,3.46,0,0,1-.23-0.31h0l0,0,0,0,0,0a0.29,0.29,0,0,1,0,.24,1.54,1.54,0,0,1-.24.29l-2,2.16a2,2,0,0,1-.36.34,0.18,0.18,0,0,1-.22,0h0l0,0a0.07,0.07,0,0,0,0,.08c0.08,0.11.17,0.25,0.28,0.42s0.22,0.35.32,0.54a0.14,0.14,0,0,0,.12,0,0.15,0.15,0,0,0,.07-0.1,1.18,1.18,0,0,1-.12-0.69,1.52,1.52,0,0,1,.41-0.6l0.28-.3A0.18,0.18,0,0,1,41,63.81a0.83,0.83,0,0,1,.22.17l2.31,2.16h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M44.72,60.24a3.18,3.18,0,0,1-.45-0.31,0.31,0.31,0,0,1-.13-0.22,0.59,0.59,0,0,1,.08-0.25l0.07-.15a0.14,0.14,0,0,0-.08-0.09,0.11,0.11,0,0,0-.11,0l-0.24.42c-0.08.14-.16,0.28-0.25,0.42s-0.35.56-.53,0.83a0.11,0.11,0,0,0,.06.09,0.13,0.13,0,0,0,.11,0l0.1-.13a0.84,0.84,0,0,1,.19-0.19,0.28,0.28,0,0,1,.25,0,3.06,3.06,0,0,1,.48.26l2.31,1.42a2.51,2.51,0,0,1,.45.31,0.31,0.31,0,0,1,.13.22,0.59,0.59,0,0,1-.08.25L47,63.31a0.14,0.14,0,0,0,.08.09,0.14,0.14,0,0,0,.11,0L47.44,63c0.09-.14.17-0.28,0.25-0.42L48,62.15c0.09-.14.17-0.27,0.27-0.41a0.12,0.12,0,0,0-.06-0.09,0.18,0.18,0,0,0-.12,0l-0.1.13a0.67,0.67,0,0,1-.19.19,0.31,0.31,0,0,1-.25,0A3.06,3.06,0,0,1,47,61.67l-2.3-1.43h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M47.76,56L47,55.3a7.12,7.12,0,0,1-.49-0.53,0.48,0.48,0,0,1-.13-0.27,0.76,0.76,0,0,1,0-.26l0-.18L46.35,54a0.11,0.11,0,0,0-.11,0c0,0.1-.06.21-0.1,0.32s-0.08.23-.13,0.35-0.08.22-.13,0.34-0.1.25-.16,0.38a0.13,0.13,0,0,0,.08.08,0.17,0.17,0,0,0,.12,0L46,55.3a0.24,0.24,0,0,1,.17-0.14,0.54,0.54,0,0,1,.25.16l1.18,1.09,1.12,1.07-0.44,0-0.57,0-1.4,0H45.56a0.84,0.84,0,0,1-.24,0,0.1,0.1,0,0,1,0-.07,0.38,0.38,0,0,1,0-.18l0-.19A0.12,0.12,0,0,0,45.21,57a0.17,0.17,0,0,0-.12,0l-0.16.48c0,0.14-.1.28-0.16,0.43s-0.1.27-.16,0.41-0.11.28-.17,0.41a0.1,0.1,0,0,0,.06.09,0.17,0.17,0,0,0,.12,0l0.09-.15A0.52,0.52,0,0,1,45,58.49a1.65,1.65,0,0,1,.54-0.06l3.32-.12h0.52l0.5,0a0.24,0.24,0,0,0,0,0,0.15,0.15,0,0,0,0-.07,0.19,0.19,0,0,0,0-.07,0.07,0.07,0,0,0,0,0l-0.41-.35L49,57.25l-0.55-.53L47.76,56h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M50,53.41a4.19,4.19,0,0,1,.54.09,0.29,0.29,0,0,1,.21.15,0.5,0.5,0,0,1,0,.26v0.27a0.16,0.16,0,0,0,.11,0,0.11,0.11,0,0,0,.1,0c0-.17,0-0.35,0-0.55s0-.38.06-0.54l0.09-.82c0-.42.09-0.79,0.13-1.09s0.07-.54.09-0.7l-0.28-.15-0.38-.16-0.36-.12a0.16,0.16,0,0,0-.08.1,0.19,0.19,0,0,0,0,.13,2.09,2.09,0,0,1,.44.31A0.7,0.7,0,0,1,51,51a2.43,2.43,0,0,1,0,.71,5.22,5.22,0,0,1-.11.6,0.37,0.37,0,0,1-.14.2,0.51,0.51,0,0,1-.3.07l-0.47,0-0.92-.11a0.32,0.32,0,0,1-.16,0,0.24,0.24,0,0,1,0-.16l0-.35A2.68,2.68,0,0,1,49,51.29a0.3,0.3,0,0,1,.3-0.15l0.29,0a0.22,0.22,0,0,0,0-.12,0.16,0.16,0,0,0,0-.11l-0.37,0-0.4,0-0.39,0-0.34,0a0.14,0.14,0,0,0-.06.1,0.19,0.19,0,0,0,0,.13L48.35,51a0.29,0.29,0,0,1,.25.22,2.27,2.27,0,0,1,0,.62l0,0.34a0.3,0.3,0,0,1,0,.15,0.23,0.23,0,0,1-.17,0l-1.23-.14a0.77,0.77,0,0,1-.36-0.08,0.36,0.36,0,0,1,0-.28l0.06-.48a1.57,1.57,0,0,1,0-.3,1.73,1.73,0,0,1,.08-0.27,0.47,0.47,0,0,1,.23-0.25,1.48,1.48,0,0,1,.48-0.13,0.16,0.16,0,0,0,0-.12,0.12,0.12,0,0,0,0-.11h-1s0,0.17,0,.35,0,0.39-.07.63l-0.16,1.38L46.27,53c0,0.16,0,.31-0.07.45a0.12,0.12,0,0,0,.09.06,0.16,0.16,0,0,0,.12,0l0-.11a0.59,0.59,0,0,1,.1-0.25,0.3,0.3,0,0,1,.24-0.09,2.43,2.43,0,0,1,.55,0L50,53.41h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M51.27,47a1.85,1.85,0,0,0-.56-1.18,1.3,1.3,0,0,0-1.07-.31,1.38,1.38,0,0,0-.85.44,2.27,2.27,0,0,0-.44.74l-0.18.48a1.51,1.51,0,0,1-.35.58,0.79,0.79,0,0,1-.44.23,0.76,0.76,0,0,1-.55-0.12,0.83,0.83,0,0,1-.32-0.59,1,1,0,0,1,.07-0.52,1,1,0,0,1,.29-0.35,1.53,1.53,0,0,1,.37-0.21,0.19,0.19,0,0,0,0-.13,0.13,0.13,0,0,0-.07-0.1L46.64,46a1.74,1.74,0,0,0-.41.16c0,0.17,0,.33,0,0.5a2.33,2.33,0,0,0,0,.52,1.74,1.74,0,0,0,.55,1.14,1.24,1.24,0,0,0,1,.28,1.32,1.32,0,0,0,.79-0.41A2.51,2.51,0,0,0,49,47.43l0.13-.33a1.68,1.68,0,0,1,.41-0.64,1,1,0,0,1,.54-0.24,0.73,0.73,0,0,1,.58.15,1,1,0,0,1,.17,1.24,1.85,1.85,0,0,1-.41.47,2.36,2.36,0,0,1-.43.28,0.17,0.17,0,0,0,0,.12,0.14,0.14,0,0,0,.08.1,3.25,3.25,0,0,0,.65-0.15,1.14,1.14,0,0,0,.42-0.22,1.75,1.75,0,0,0,.13-0.42,2.57,2.57,0,0,0,0-.84h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M26.18,47.83c0-.85,0-1.66,0-2.43a5.41,5.41,0,0,1,.26-1.67,0.66,0.66,0,0,1,.35-0.33,2.66,2.66,0,0,1,.54-0.14l0.48-.1a0.45,0.45,0,0,0,0-.61l-1,0H24.42l-1.2,0a0.28,0.28,0,0,0-.17.27,0.39,0.39,0,0,0,.13.34l0.48,0.06a2.19,2.19,0,0,1,.65.17,1,1,0,0,1,.4.35,4.58,4.58,0,0,1,.34,1.7q0.06,1.19.06,2.4V51.9a3.13,3.13,0,0,1,0,.35,0.26,0.26,0,0,1,0,.15,6.54,6.54,0,0,1-.68-0.7l-1.22-1.34L22,49.11l-2.08-2.25c-0.26-.28-0.63-0.71-1.11-1.27s-0.94-1.13-1.37-1.7a7.16,7.16,0,0,1-.87-1.34l-0.74,0H14c-0.47,0-.91,0-1.33-0.06a0.3,0.3,0,0,0-.17.28,0.43,0.43,0,0,0,.09.33l0.31,0.06,0.58,0.16a1.88,1.88,0,0,1,.53.25,1.57,1.57,0,0,1,.61.9,8.72,8.72,0,0,1,.08,1.66v4.93c0,0.85,0,1.66,0,2.42a5.82,5.82,0,0,1-.24,1.67,0.69,0.69,0,0,1-.37.34,2.76,2.76,0,0,1-.55.14l-0.46.1a0.44,0.44,0,0,0,0,.61l1,0c0.33,0,.71,0,1.14,0h1.19l1.18,0a0.28,0.28,0,0,0,.17-0.27,0.39,0.39,0,0,0-.13-0.34l-0.46-.06a2.27,2.27,0,0,1-.66-0.17,0.94,0.94,0,0,1-.41-0.35,4.83,4.83,0,0,1-.32-1.7c0-.79-0.06-1.59-0.05-2.4V47c0-.54,0-0.9,0-1.08s0-.27.05-0.25a10.21,10.21,0,0,1,.82.85c0.38,0.42.89,1,1.55,1.77l4.88,5.55c0.74,0.84,1.29,1.48,1.65,1.91s0.63,0.75.78,1a1,1,0,0,0,.39,0,0.7,0.7,0,0,0,.32-0.24c0-.19,0-0.53,0-1s0-1,0-1.52V47.83h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M32.93,42.6a9.19,9.19,0,0,1-1.65-.08,0.6,0.6,0,0,1-.53-0.44A0.21,0.21,0,0,0,30.57,42a0.28,0.28,0,0,0-.18.06c-0.12.57-.26,1.14-0.42,1.72s-0.32,1.17-.48,1.77a0.42,0.42,0,0,0,.28.21,0.5,0.5,0,0,0,.38-0.06,5.7,5.7,0,0,1,.4-0.83,3.34,3.34,0,0,1,.56-0.75,2.26,2.26,0,0,1,1.14-.55,9.38,9.38,0,0,1,1.94-.16h2.52a3.79,3.79,0,0,1,.51,0,0.2,0.2,0,0,1,.21.13,3.18,3.18,0,0,1-.41.78c-0.26.42-.61,1-1,1.59l-4.58,6.92q-0.72,1.06-1.41,2c-0.46.61-.78,1-1,1.25a0.25,0.25,0,0,0,0,.19,0.25,0.25,0,0,0,.12.13c0.18,0,.45,0,0.81,0l1.38,0h5.42l2,0,1.8,0A5.28,5.28,0,0,0,41.19,55a14,14,0,0,0,.44-2,0.39,0.39,0,0,0-.29-0.21,0.54,0.54,0,0,0-.38,0A4.29,4.29,0,0,1,39.44,55a3.4,3.4,0,0,1-1.33.38,19.76,19.76,0,0,1-2.28.1H34.21l-0.8,0a1.82,1.82,0,0,1-.47-0.08,0.25,0.25,0,0,1-.19-0.23,2.76,2.76,0,0,1,.36-0.7c0.22-.37.47-0.75,0.73-1.14l0.58-.88,3.37-5.08L39,45.54c0.43-.63.81-1.19,1.17-1.67a8.67,8.67,0,0,1,.79-1,0.37,0.37,0,0,0,0-.21,0.3,0.3,0,0,0-.16-0.13L40,42.6c-0.36,0-.89,0-1.58,0H32.93v0h0Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M31,20.61a3.62,3.62,0,0,0-.18,1.08,3.76,3.76,0,0,0,2.16.48,3.3,3.3,0,0,0,.3-1.38,3.84,3.84,0,0,0-2.15-.49,2.92,2.92,0,0,0-.13.31h0Zm-0.1-.55,0-.06a5.55,5.55,0,0,1,.94,0,3.57,3.57,0,0,1,1.72.61,3.41,3.41,0,0,1-.44,1.84,4.57,4.57,0,0,1-.94,0,3.57,3.57,0,0,1-1.72-.61,3.91,3.91,0,0,1,.39-1.78h0ZM23,20.61a1.53,1.53,0,0,0-.13-0.3,3.94,3.94,0,0,0-2.16.49A3.16,3.16,0,0,0,21,22.18a3.79,3.79,0,0,0,2.15-.48A3.13,3.13,0,0,0,23,20.61h0Zm0.3-.1a4.37,4.37,0,0,1,.2,1.35,4,4,0,0,1-2.66.62,2.13,2.13,0,0,1-.24-0.5,4.07,4.07,0,0,1-.2-1.34A4.05,4.05,0,0,1,23.07,20a1.48,1.48,0,0,1,.25.5h0ZM36,23.08a1.25,1.25,0,0,0,.15.24l0.09,0.13,0.22-.06a2.31,2.31,0,0,0,1-.57,4.3,4.3,0,0,0-.2-1.07,1.94,1.94,0,0,0-.08-0.22H37a5.2,5.2,0,0,0-1.51.36,5.26,5.26,0,0,0,.5,1.18h0Zm-18.1.22L18,23.08a5.77,5.77,0,0,0,.5-1.18A5.34,5.34,0,0,0,17,21.54H16.85a1.55,1.55,0,0,0-.08.23,3.81,3.81,0,0,0-.19,1.06,2.39,2.39,0,0,0,1,.56l0.22,0.06,0.09-.14h0ZM34.32,20a1.75,1.75,0,0,0,1.33.43A2,2,0,0,0,36.78,20h0.49a2.52,2.52,0,0,1-1.62.74A2,2,0,0,1,33.87,20h0.45Zm-8,0a6.19,6.19,0,0,0-.7.64,5.81,5.81,0,0,0,1,.84L27,21.67a5.27,5.27,0,0,0,1.36-1.08,4.75,4.75,0,0,0-.7-0.64h0.49a6.38,6.38,0,0,1,.63.65A5.88,5.88,0,0,1,27,22,5.7,5.7,0,0,1,25.3,20.7l-0.09-.1A6.33,6.33,0,0,1,25.84,20h0.49ZM17.2,20a2,2,0,0,0,1.13.43A1.78,1.78,0,0,0,19.66,20H20.1a2,2,0,0,1-1.77.74A2.54,2.54,0,0,1,16.71,20H17.2Zm-1,0c0.22,0.42.45,0.84,0.66,1.27a4.47,4.47,0,0,1,.47,0,6.41,6.41,0,0,1,1.55.45,7.43,7.43,0,0,1-.61,1.52,4.72,4.72,0,0,1-.26.4l0.2,0.44a26.25,26.25,0,0,1,17.55,0l0.19-.42a5.77,5.77,0,0,1-.84-1.8l0-.13a5.82,5.82,0,0,1,2-.5c0.21-.41.43-0.84,0.66-1.27h0.35c-0.25.46-.5,0.94-0.74,1.41a4.74,4.74,0,0,1,.33,1.57,2.83,2.83,0,0,1-1.48.82c-0.22.49-.44,1-0.63,1.43l-0.29-.13,0.31-.71a26,26,0,0,0-17.29,0l0.31,0.71-0.29.13s-0.25-.57-0.65-1.44a4.11,4.11,0,0,1-.45-0.13,2.51,2.51,0,0,1-1-.68,4.73,4.73,0,0,1,.32-1.57c-0.24-.47-0.48-1-0.74-1.42H16.2Z" transform="translate(-0.72)" style="fill:#063964"/><path d="M26.43,6.26V4.71h1.13V6.25h1.17V7.36H25.26V6.26h1.17Zm0.31,0.31H25.57V7.05h2.84V6.57H27.24V5h-0.5V6.57h0ZM38.86,18.09c0.23-.39.47-0.76,0.71-1.1l-1-.49a2.23,2.23,0,0,1-.1,1.5,0.69,0.69,0,0,1,.38.09h0ZM15.5,18a2.25,2.25,0,0,1-.09-1.49l-1,.49c0.23,0.34.47,0.7,0.7,1.08A0.77,0.77,0,0,1,15.46,18h0Zm-0.62-1.57,0.42-.2c-0.9-1.92-1.58-4.9.57-6.31,2.68-1.76,7.09.2,9.75,1l0.13,2.46H26.3a1,1,0,0,1-.24-0.63,0.93,0.93,0,0,1,.29-0.68,0.93,0.93,0,0,1-.29-0.68,1,1,0,0,1,.22-0.61,0.93,0.93,0,0,1-.22-0.61,1,1,0,0,1,.14-0.5,0.92,0.92,0,0,1-.14-0.5,1,1,0,0,1,.1-0.43,0.88,0.88,0,0,1-.1-0.43,0.94,0.94,0,0,1,1.88,0,1,1,0,0,1-.1.43,0.88,0.88,0,0,1,.1.43,1,1,0,0,1-.14.5,0.92,0.92,0,0,1,.14.5,0.93,0.93,0,0,1-.22.61,0.95,0.95,0,0,1-.07,1.29,0.93,0.93,0,0,1,.29.68,1,1,0,0,1-.24.63h0.53l0.13-2.46c0.79-.25,1.58-0.55,2.37-0.8,2.15-.69,5.29-1.62,7.38-0.24s1.47,4.37.57,6.29l0.41,0.2c0.41-.78,2.38-4.88-0.66-6.89a6.75,6.75,0,0,0-4.19-.8,22.87,22.87,0,0,0-3.32.85c-0.75.23-1.75,0.61-2.56,0.81l0.1-2.17a1.91,1.91,0,0,0,.1-2.85,3.34,3.34,0,0,1-1.16-2,1,1,0,0,1-.42.1,0.87,0.87,0,0,1-.39-0.1c-0.18,1.62-1.76,2-1.8,3.4a2.4,2.4,0,0,0,.69,1.52l0.1,2.17c-0.8-.2-1.8-0.58-2.55-0.81a23.2,23.2,0,0,0-3.32-.85,5.74,5.74,0,0,0-4.92,1.42l-0.22.27A4.29,4.29,0,0,0,14,13.86a9.93,9.93,0,0,0,.92,2.56h0Zm12.47-1a2.7,2.7,0,0,1,.7-1.68H25.9a2.69,2.69,0,0,1,.69,1.7,0.76,0.76,0,0,1,.4-0.11,0.74,0.74,0,0,1,.36.09h0Zm-1.06.33a2.91,2.91,0,0,1-1.8-.72v2.15a2.78,2.78,0,0,1,1.8-.69,0.79,0.79,0,0,1-.09-0.38,0.77,0.77,0,0,1,.09-0.36h0Zm1.39,0.75a2.72,2.72,0,0,1,1.8.68V15a2.79,2.79,0,0,1-1.81.69,0.8,0.8,0,0,1,.11.4,0.86,0.86,0,0,1-.1.38h0ZM27,15.64a0.47,0.47,0,1,0,.47.47A0.47,0.47,0,0,0,27,15.64h0ZM16.24,18.85a2.47,2.47,0,0,1,1.51-.09L16.88,17a2.48,2.48,0,0,1-1,1.13,0.8,0.8,0,0,1,.37.67v0.06h0Zm-0.78-.55a0.47,0.47,0,1,0,.47.47,0.48,0.48,0,0,0-.47-0.47h0Zm22.63-.18a2.48,2.48,0,0,1-1-1.13l-0.87,1.78a2.51,2.51,0,0,1,1.5.09V18.79a0.81,0.81,0,0,1,.38-0.67h0Zm0.41,0.2a0.47,0.47,0,1,0,.47.47,0.46,0.46,0,0,0-.47-0.47h0Zm1.9-3.12a0.63,0.63,0,0,0-.56.34,0.61,0.61,0,0,0,0,.12,0.88,0.88,0,0,0,0,.17,0.63,0.63,0,0,0,.63.63A0.63,0.63,0,0,0,41,15.83a0.64,0.64,0,0,0-.63-0.63h0Zm0.56-2a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,0,0,1.26,0A0.63,0.63,0,0,0,41,13.19h0ZM40,9.05a0.63,0.63,0,0,0-.63.63A0.63,0.63,0,1,0,40,9.05h0Zm-1.7-1.31a0.63,0.63,0,1,0,0,1.26A0.63,0.63,0,0,0,39,8.37a0.65,0.65,0,0,0-.63-0.63h0Zm-2-.58a0.63,0.63,0,1,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.64,0.64,0,0,0-.63-0.63h0Zm-2.11,0a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,1,0,.63-0.63h0Zm-2.09.46a0.63,0.63,0,0,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.63,0.63,0,0,0-.63-0.63h0ZM30,8.25a0.63,0.63,0,0,0-.63.63A0.63,0.63,0,1,0,30,8.25h0ZM13.57,15.2a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,0,0,.63.63,0.63,0.63,0,0,0,.63-0.63,0.64,0.64,0,0,0-.63-0.63h0ZM13,13.2a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,1,0,1.26,0A0.64,0.64,0,0,0,13,13.2h0Zm1-4.11a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,0,0,.63.63,0.65,0.65,0,0,0,.37-0.12l0.2-.24a0.58,0.58,0,0,0,.06-0.26A0.64,0.64,0,0,0,14,9.09h0Zm1.68-1.33a0.63,0.63,0,1,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.65,0.65,0,0,0-.63-0.63h0Zm2-.57a0.63,0.63,0,0,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.64,0.64,0,0,0-.63-0.63h0Zm2.12,0a0.63,0.63,0,0,0-.63.63,0.63,0.63,0,1,0,1.26,0,0.63,0.63,0,0,0-.63-0.63h0ZM21.9,7.64a0.63,0.63,0,0,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.64,0.64,0,0,0-.63-0.63h0Zm1.86,1.84,0.08,0,0.15,0a0.63,0.63,0,0,0,.63-0.63A0.63,0.63,0,0,0,24,8.26a0.63,0.63,0,0,0-.23,1.22h0Zm17.18,1.57a0.63,0.63,0,1,0,0,1.26,0.63,0.63,0,0,0,.63-0.63,0.63,0.63,0,0,0-.63-0.63h0Zm-27.9,0a0.63,0.63,0,1,0,.61.78,0.5,0.5,0,0,0,0-.15A0.63,0.63,0,0,0,13,11.06h0ZM27,1.85a0.8,0.8,0,0,1,.38.1c0-.12,0-0.24.07-0.37A2.46,2.46,0,0,1,28.07.32H25.92A2.66,2.66,0,0,1,26.59,2,0.79,0.79,0,0,1,27,1.85h0Zm0.69,0.4a0.8,0.8,0,0,1,.1.38,0.87,0.87,0,0,1-.1.39,2.66,2.66,0,0,1,1.75.68V1.56a2.77,2.77,0,0,1-1.75.69h0ZM26.31,3a0.84,0.84,0,0,1-.1-0.39,0.74,0.74,0,0,1,.09-0.36,2.8,2.8,0,0,1-1.76-.72V3.7A2.69,2.69,0,0,1,26.31,3h0ZM27,2.16a0.47,0.47,0,1,0,.47.47A0.47,0.47,0,0,0,27,2.16h0Zm0,5.57a0.63,0.63,0,0,0-.63.63,0.68,0.68,0,0,0,0,.14,0.92,0.92,0,0,1,1.22,0,0.59,0.59,0,0,0,0-.14A0.63,0.63,0,0,0,27,7.73h0Zm0.46,1.06a0.63,0.63,0,0,0-.92,0,0.62,0.62,0,0,0-.15.29,0.59,0.59,0,0,0,0,.14,0.7,0.7,0,0,0,0,.25,0.88,0.88,0,0,1,.39-0.18l0.19,0,0.19,0a0.93,0.93,0,0,1,.39.18,0.7,0.7,0,0,0,0-.25,0.68,0.68,0,0,0,0-.14,0.51,0.51,0,0,0-.15-0.29h0Zm-0.31,2-0.14,0-0.14,0a0.59,0.59,0,0,0-.33.2,0.63,0.63,0,0,0,.1.91A1,1,0,0,1,27,11.84a0.92,0.92,0,0,1,.38.08,0.62,0.62,0,0,0,.25-0.5A0.64,0.64,0,0,0,27.49,11a0.82,0.82,0,0,0-.35-0.2h0ZM26.42,10a0.7,0.7,0,0,0,0,.25,0.64,0.64,0,0,0,.15.41A1,1,0,0,1,27,10.49a1,1,0,0,1,.48.13,0.64,0.64,0,0,0,.15-0.41,0.7,0.7,0,0,0,0-.25,0.6,0.6,0,0,0-.2-0.25A0.62,0.62,0,0,0,27,9.58a0.65,0.65,0,0,0-.38.13,0.6,0.6,0,0,0-.19.25h0Zm0,2.82a0.63,0.63,0,0,0,.6.63H27a0.63,0.63,0,1,0-.66-0.63h0ZM25.84,20A4.86,4.86,0,0,1,27,19.17a4.86,4.86,0,0,1,1.15.78H27.65A4.66,4.66,0,0,0,27,19.52a4.66,4.66,0,0,0-.66.43H25.84Zm-10,0-0.22-.4-0.15,0a0.79,0.79,0,0,1-.79-0.79,0.76,0.76,0,0,1,.19-0.51c-0.3-.48-0.6-1-0.92-1.39l0.65-.32c-0.05-.09-0.1-0.2-0.17-0.35a0.93,0.93,0,0,1-.86.55,0.94,0.94,0,0,1,0-1.88,1.16,1.16,0,0,1,.37.07c-0.06-.18-0.11-0.37-0.16-0.57a0.94,0.94,0,1,1-.75-1.5,0.93,0.93,0,0,1,.55.18,6,6,0,0,1,0-.6,0.94,0.94,0,1,1,.26-1.29,5.05,5.05,0,0,1,.24-0.53H14a0.94,0.94,0,1,1,.94-1,3.61,3.61,0,0,1,.44-0.33,1,1,0,0,1-.64-0.89,0.94,0.94,0,1,1,1.88,0,0.87,0.87,0,0,1-.06.32l0.57-.16a0.94,0.94,0,1,1,1.52-.74,1,1,0,0,1-.19.57q0.31,0,.63,0a1,1,0,0,1-.2-0.58,0.94,0.94,0,0,1,1.88,0,1,1,0,0,1-.36.74L21,8.68a0.88,0.88,0,0,1-.1-0.43,0.94,0.94,0,0,1,1.88,0,1,1,0,0,1-.44.8l0.74,0.23A1,1,0,0,1,23,8.9a0.94,0.94,0,1,1,1.42.81L25.26,10,25.2,8.36a2.19,2.19,0,0,1,0-3.18,3.41,3.41,0,0,0,1.11-1.84,2,2,0,0,0-1.75.93l-0.3.35v-4L24.53,1a2,2,0,0,0,1.75.93A1.94,1.94,0,0,0,25.36.31L25,0h4l-0.36.3a1.93,1.93,0,0,0-.92,1.62A2,2,0,0,0,29.46,1l0.3-.36v4l-0.3-.36a2,2,0,0,0-1.72-.93c0.18,1.46,1.71,1.78,1.74,3.34a2.59,2.59,0,0,1-.7,1.65L28.7,10l0.8-.27a0.94,0.94,0,1,1,1.41-.81,1,1,0,0,1-.08.39L31.58,9A0.94,0.94,0,1,1,33,8.24a1,1,0,0,1-.1.43l0.66-.15a1,1,0,0,1-.35-0.73,0.94,0.94,0,1,1,1.88,0,0.91,0.91,0,0,1-.2.58c0.21,0,.41,0,0.61,0a1,1,0,0,1-.19-0.58,0.94,0.94,0,1,1,1.52.74c0.2,0.05.4,0.1,0.58,0.16a0.87,0.87,0,0,1-.06-0.32,0.94,0.94,0,1,1,1.24.89,5.55,5.55,0,0,1,.46.35,0.94,0.94,0,1,1,.94,1H39.88a4.79,4.79,0,0,1,.26.56,1,1,0,0,1,.8-0.44,0.94,0.94,0,0,1,0,1.88,0.91,0.91,0,0,1-.54-0.17c0,0.19,0,.4,0,0.61a1,1,0,0,1,.55-0.18,0.94,0.94,0,0,1,0,1.88,0.93,0.93,0,0,1-.75-0.38c0,0.19-.1.38-0.16,0.57a1,1,0,0,1,.35-0.07,0.94,0.94,0,1,1-.85,1.34c0,0.11-.11.22-0.16,0.32L40,16.85q-0.47.66-.93,1.41a0.81,0.81,0,0,1,.18.51,0.79,0.79,0,0,1-.79.79H38.35l-0.21.38H37.79l0.27-.5a0.72,0.72,0,0,1-.2-0.19,3.58,3.58,0,0,1-.59.69H36.78a3.3,3.3,0,0,0,.78-0.8,1.73,1.73,0,0,0-1.61.11l-0.43.2L37.17,16l0.13,0.45a1.67,1.67,0,0,0,.9,1.33,1.64,1.64,0,0,0-.12-1.58l-0.2-.43L38.39,16c0.82-1.77,1.51-4.59-.46-5.89s-5.08-.37-7.11.28c-1,.32-1.87.63-2.16,0.73l-0.11,2.22H29l-0.37.3a2,2,0,0,0-.93,1.68,2,2,0,0,0,1.8-.93l0.3-.35v4l-0.3-.36a2,2,0,0,0-1.8-.93A2.5,2.5,0,0,0,29,18.84a3,3,0,0,0,2.67-.15,0.87,0.87,0,0,1,.22-1.19c0.16-.29-0.13-0.59-0.33-0.31a2,2,0,0,0-.2,1.1c-0.74-.83-1.66-2.14-1-3.28a1.19,1.19,0,0,1,1.9,0l0.07,0.08a3.11,3.11,0,0,1,1.72-2.67,3.08,3.08,0,0,1,.54,3.12l0.09,0a1.18,1.18,0,0,1,1.76.7c0.2,1.33-1.16,2.18-2.17,2.64a1.91,1.91,0,0,0,.25-1.09c-0.08-.34-0.45-0.18-0.44.11a0.9,0.9,0,0,1-.27,1.23,1.62,1.62,0,0,0,.5.78H33.9A1.61,1.61,0,0,1,33.51,19V18.93C34,18.75,34,18.5,33.82,18l0-.1c-0.06-.81,1.3-1,1.06.32a2.24,2.24,0,0,0,1.3-2,0.88,0.88,0,0,0-1.32-.46,1.77,1.77,0,0,0-.65.53l-0.29-.15a3.39,3.39,0,0,0,.2-0.28,2.72,2.72,0,0,0-.1-3.06,2.72,2.72,0,0,0-1.29,2.78c0,0.13,0,.22,0,0.28l0,0.06-0.3.09,0-.06a1.51,1.51,0,0,0-1.17-1.16,0.58,0.58,0,0,0-.62.31,2.22,2.22,0,0,0,.43,2.31c0.31-1.38,1.59-.49,1,0.21-0.33.37-.47,0.59-0.07,1-0.42,1-4.3,1.59-4.68-1.88a0.84,0.84,0,0,1-.39.1,0.8,0.8,0,0,1-.4-0.11c-0.38,3.51-4.25,2.82-4.67,1.89L22,18.53c0.27-.31,0-0.58-0.19-0.84a0.44,0.44,0,0,1,0-.09c-0.37-.72.81-1.41,1.1-0.12a2.18,2.18,0,0,0,.43-2.31,0.89,0.89,0,0,0-1.4.09,1.75,1.75,0,0,0-.39.74l0,0.06L21.22,16l0-.06c0-.05,0-0.15,0-0.28A2.72,2.72,0,0,0,20,12.86a2.72,2.72,0,0,0-.1,3.06,1.64,1.64,0,0,0,.16.23l-0.2.25-0.07-.08a1.49,1.49,0,0,0-1.5-.57,0.58,0.58,0,0,0-.45.53,2.18,2.18,0,0,0,1.3,2c-0.26-1.39,1.27-1.07,1-.22a1.63,1.63,0,0,0,0,.2c-0.1.44,0,.56,0.36,0.7V19a1.61,1.61,0,0,1-.39.87H19.66a1.7,1.7,0,0,0,.5-0.78,0.87,0.87,0,0,1-.28-1.2c0.06-.29-0.35-0.5-0.43-0.15a1.91,1.91,0,0,0,.25,1.09c-1-.47-2.37-1.32-2.17-2.64a1.18,1.18,0,0,1,1.76-.7l0.09,0a2,2,0,0,1-.1-0.32,3.08,3.08,0,0,1,.64-2.8,3.08,3.08,0,0,1,1.72,2.67L21.71,15a1.19,1.19,0,0,1,1.9,0c0.7,1.14-.22,2.46-1,3.28a2,2,0,0,0-.2-1.1c-0.22-.3-0.52.07-0.33,0.31a0.87,0.87,0,0,1,.22,1.19,3,3,0,0,0,2.67.15,2.51,2.51,0,0,0,1.28-2.06,2,2,0,0,0-1.79.93l-0.3.36v-4l0.3,0.34a2,2,0,0,0,1.79.93,2,2,0,0,0-.93-1.68L25,13.36h0.43l-0.11-2.22C25,11,24.16,10.73,23.17,10.41c-2-.65-5.12-1.58-7.11-0.28s-1.28,4.14-.45,5.91l0.53-.26-0.22.42a1.65,1.65,0,0,0-.13,1.56,1.7,1.7,0,0,0,.89-1.33L16.8,16l1.65,3.39L18,19.2a1.77,1.77,0,0,0-1.61-.12,3.47,3.47,0,0,0,.8.82H16.73a4.65,4.65,0,0,1-.61-0.71,0.66,0.66,0,0,1-.19.18c0.1,0.17.19,0.35,0.29,0.53l-0.39,0h0Z" transform="translate(-0.72)" style="fill:#063964"/></svg><p>Authorised by Tim Macindoe MP, 543 Te Rapa Rd, Hamilton.</p>
+</section> <!-- /.block -->
+<section id="block-menu-block-5" class="block block-menu-block col-xs-12 col-sm-4 navigation--auxiliary clearfix">
+
+      
+  <div class="menu-block-wrapper menu-block-5 menu-name-menu-auxiliary-links- parent-mlid-0 menu-level-1">
+  <ul class="menu nav"><li class="first leaf menu-mlid-172997"><a href="/contact-us">Contact us</a></li>
+<li class="leaf menu-mlid-172899"><a href="/privacy-policy">Privacy Policy</a></li>
+<li class="last leaf menu-mlid-172900"><a href="/copyright">Copyright</a></li>
+</ul></div>
+
+</section> <!-- /.block -->
+<section id="block-block-29" class="block block-block clearfix">
+
+      
+  <!-- Added to all sites 2016-04, https://projects.sparksinteractive.co.nz/issues/14949 . Added as a content block for maximum flexibility. --><!-- Facebook Pixel Code -->
+<p><img height="1" src="https://www.facebook.com/tr?id=844917618959210&amp;ev=PageView&amp;noscript=1" style="display:none" width="1" /> <!-- End Facebook Pixel Code --></p>
+
+</section> <!-- /.block -->
+  </div>
+</div>
+          </div>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+  <script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__GM3GJPR36rRIz0TRkjC5OQwrioSyN9aoYRivDhCO_AM__qAl84FcCv2jyN22yFGS5Oc85cjd9zKX6p_cFNLGhe-M__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js" async="async"></script>
+<script src="https://national.org.nz/sites/national.org.nz/files/advagg_js/js__i11V-7AETPhfL9YzRpXBpECwVkYyQ_ahu2eHxES_mK0__Tgy2Gm7LmUJY8GXZeWxVbS51f3txED35LX1ul4UiOfk__AKWuUQVQLFVxI_Wn0LZRhOrwquE3xDOCpXjmVchs25Y.js"></script>
+</body>
+</html>
+
